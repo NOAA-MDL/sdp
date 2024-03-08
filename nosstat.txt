@@ -1,0 +1,287 @@
+# NOS Active station ID|Name|URN|Lat|Lon
+1611400|Nawiliwili, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1611400|21.9544|-159.3561
+1612340|Honolulu, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1612340|21.3067|-157.867
+1612480|Mokuoloe, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1612480|21.4331|-157.79
+1615680|Kahului, Kahului Harbor, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1615680|20.895|-156.4767
+1617433|Kawaihae, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1617433|20.0366|-155.8294
+1617760|Hilo, Hilo Bay, Kuhio Bay, HI|urn:ioos:station:NOAA.NOS.CO-OPS:1617760|19.7303|-155.0558
+1619910|Sand Island, Midway Islands|urn:ioos:station:NOAA.NOS.CO-OPS:1619910|28.2117|-177.36
+1630000|Apra Harbor, Guam|urn:ioos:station:NOAA.NOS.CO-OPS:1630000|13.4387|144.6539
+1631428|Pago Bay, Guam|urn:ioos:station:NOAA.NOS.CO-OPS:1631428|13.4283|144.797
+1770000|Pago Pago, American Samoa|urn:ioos:station:NOAA.NOS.CO-OPS:1770000|-14.28|-170.69
+1820000|Kwajalein, Marshall Islands|urn:ioos:station:NOAA.NOS.CO-OPS:1820000|8.7316|167.7362
+1890000|Wake Island, Pacific Ocean|urn:ioos:station:NOAA.NOS.CO-OPS:1890000|19.29|166.618
+2695540|Bermuda, St. Georges Island|urn:ioos:station:NOAA.NOS.CO-OPS:2695540|32.3734|-64.7033
+8311030|Ogdensburg, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8311030|44.7029|-75.4944
+8311062|Alexandria Bay, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8311062|44.3311|-75.9345
+8410140|Eastport, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8410140|44.9046|-66.9829
+8411060|Cutler Farris Wharf, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8411060|44.6567|-67.21
+8413320|Bar Harbor, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8413320|44.3917|-68.205
+8416921|Wiscasset, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8416921|44.0|-69.6667
+8417087|Phipps Pt., ME|urn:ioos:station:NOAA.NOS.CO-OPS:8417087|43.8983|-69.7433
+8417143|Augusta, Calumet Bridge, Kennebec River, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8417143|44.3168|-69.7721
+8418150|Portland, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8418150|43.6567|-70.2467
+8419317|Wells, ME|urn:ioos:station:NOAA.NOS.CO-OPS:8419317|43.32|-70.5633
+8423898|Fort Point, NH|urn:ioos:station:NOAA.NOS.CO-OPS:8423898|43.0717|-70.7117
+8443970|Boston, MA|urn:ioos:station:NOAA.NOS.CO-OPS:8443970|42.3548|-71.0534
+8447386|Fall River, MA|urn:ioos:station:NOAA.NOS.CO-OPS:8447386|41.7043|-71.1641
+8447435|Chatham, MA|urn:ioos:station:NOAA.NOS.CO-OPS:8447435|41.6885|-69.9511
+8447930|Woods Hole, MA|urn:ioos:station:NOAA.NOS.CO-OPS:8447930|41.5233|-70.6717
+8449130|Nantucket Island, MA|urn:ioos:station:NOAA.NOS.CO-OPS:8449130|41.285|-70.0967
+8452660|Newport, RI|urn:ioos:station:NOAA.NOS.CO-OPS:8452660|41.505|-71.3267
+8452944|Conimicut Light, RI|urn:ioos:station:NOAA.NOS.CO-OPS:8452944|41.7167|-71.3433
+8454000|Providence, RI|urn:ioos:station:NOAA.NOS.CO-OPS:8454000|41.8071|-71.4012
+8454049|Quonset Point, RI|urn:ioos:station:NOAA.NOS.CO-OPS:8454049|41.5868|-71.411
+8461490|New London, CT|urn:ioos:station:NOAA.NOS.CO-OPS:8461490|41.3614|-72.09
+8465705|New Haven, CT|urn:ioos:station:NOAA.NOS.CO-OPS:8465705|41.2833|-72.9083
+8467150|Bridgeport, CT|urn:ioos:station:NOAA.NOS.CO-OPS:8467150|41.1733|-73.1817
+8510560|Montauk, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8510560|41.0483|-71.96
+8516945|Kings Point, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8516945|40.8103|-73.7649
+8518750|The Battery, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8518750|40.7006|-74.0142
+8519483|Bergen Point West Reach, NY|urn:ioos:station:NOAA.NOS.CO-OPS:8519483|40.6367|-74.1417
+8531680|Sandy Hook, NJ|urn:ioos:station:NOAA.NOS.CO-OPS:8531680|40.4669|-74.0094
+8534720|Atlantic City, NJ|urn:ioos:station:NOAA.NOS.CO-OPS:8534720|39.355|-74.4183
+8536110|Cape May, NJ|urn:ioos:station:NOAA.NOS.CO-OPS:8536110|38.9683|-74.96
+8537121|Ship John Shoal, NJ|urn:ioos:station:NOAA.NOS.CO-OPS:8537121|39.305|-75.375
+8539094|Burlington, Delaware River, NJ|urn:ioos:station:NOAA.NOS.CO-OPS:8539094|40.0817|-74.8697
+8545240|Philadelphia, PA|urn:ioos:station:NOAA.NOS.CO-OPS:8545240|39.9333|-75.1417
+8548989|Newbold, PA|urn:ioos:station:NOAA.NOS.CO-OPS:8548989|40.1367|-74.7517
+8551762|Delaware City, DE|urn:ioos:station:NOAA.NOS.CO-OPS:8551762|39.5817|-75.5883
+8551910|Reedy Point, DE|urn:ioos:station:NOAA.NOS.CO-OPS:8551910|39.5583|-75.5733
+8555889|Brandywine Shoal Light, DE|urn:ioos:station:NOAA.NOS.CO-OPS:8555889|38.9867|-75.1133
+8557380|Lewes, DE|urn:ioos:station:NOAA.NOS.CO-OPS:8557380|38.7817|-75.12
+8570283|Ocean City Inlet, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8570283|38.3283|-75.0917
+8571421|Bishops Head, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8571421|38.22|-76.0383
+8571892|Cambridge, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8571892|38.5733|-76.0683
+8573364|Tolchester Beach, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8573364|39.2133|-76.245
+8573927|Chesapeake City, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8573927|39.5267|-75.81
+8574680|Baltimore, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8574680|39.2667|-76.5783
+8575512|Annapolis, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8575512|38.9833|-76.4816
+8577330|Solomons Island, MD|urn:ioos:station:NOAA.NOS.CO-OPS:8577330|38.3167|-76.4517
+8594900|Washington, DC|urn:ioos:station:NOAA.NOS.CO-OPS:8594900|38.8733|-77.0217
+8631044|Wachapreague, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8631044|37.6078|-75.6858
+8632200|Kiptopeke, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8632200|37.1652|-75.9884
+8635750|Lewisetta, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8635750|37.9961|-76.4644
+8636580|Windmill Point, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8636580|37.6162|-76.29
+8637689|Yorktown USCG Training Center, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8637689|37.2267|-76.4783
+8638610|Sewells Point, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8638610|36.9467|-76.33
+8638863|Chesapeake Bay Bridge Tunnel, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8638863|36.9667|-76.1133
+8639348|Money Point, VA|urn:ioos:station:NOAA.NOS.CO-OPS:8639348|36.7783|-76.3017
+8651370|Duck, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8651370|36.1833|-75.7467
+8652587|Oregon Inlet Marina, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8652587|35.795|-75.5483
+8654467|USCG Station Hatteras, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8654467|35.2086|-75.7042
+8656483|Beaufort, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8656483|34.72|-76.67
+8658120|Wilmington, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8658120|34.2267|-77.9533
+8658163|Wrightsville Beach, NC|urn:ioos:station:NOAA.NOS.CO-OPS:8658163|34.2133|-77.7867
+8661070|Springmaid Pier, SC|urn:ioos:station:NOAA.NOS.CO-OPS:8661070|33.655|-78.9183
+8662245|Oyster Landing (N Inlet Estuary), SC|urn:ioos:station:NOAA.NOS.CO-OPS:8662245|33.3517|-79.1867
+8665530|Charleston, SC|urn:ioos:station:NOAA.NOS.CO-OPS:8665530|32.7817|-79.925
+8670870|Fort Pulaski, GA|urn:ioos:station:NOAA.NOS.CO-OPS:8670870|32.0333|-80.9017
+8720030|Fernandina Beach, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720030|30.6717|-81.465
+8720218|Mayport (Bar Pilots Dock), FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720218|30.3967|-81.43
+8720219|Dames Point, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720219|30.3867|-81.5583
+8720226|Southbank Riverwalk, St Johns River, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720226|30.32|-81.6583
+8720357|I-295 Bridge, St Johns River, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720357|30.1917|-81.6917
+8720503|Red Bay Point, St Johns River, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720503|29.9783|-81.6283
+8720625|Racy Point, St Johns River, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8720625|29.8017|-81.5483
+8721604|Trident Pier, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8721604|28.4158|-80.5931
+8722670|Lake Worth Pier, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8722670|26.6117|-80.0333
+8723214|Virginia Key, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8723214|25.7314|-80.1618
+8723970|Vaca Key, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8723970|24.7117|-81.105
+8724580|Key West, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8724580|24.5557|-81.8079
+8725110|Naples, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8725110|26.1317|-81.8075
+8725520|Fort Myers, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8725520|26.6477|-81.8712
+8726384|Port Manatee, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8726384|27.6387|-82.5621
+8726520|St Petersburg, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8726520|27.7606|-82.6269
+8726607|Old Port Tampa, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8726607|27.8578|-82.5527
+8726667|Mckay Bay Entrance, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8726667|27.9133|-82.425
+8726724|Clearwater Beach, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8726724|27.9783|-82.8317
+8727520|Cedar Key, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8727520|29.135|-83.0317
+8728690|Apalachicola, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8728690|29.7267|-84.9817
+8729108|Panama City, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8729108|30.1523|-85.6669
+8729210|Panama City Beach, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8729210|30.2133|-85.8783
+8729840|Pensacola, FL|urn:ioos:station:NOAA.NOS.CO-OPS:8729840|30.4044|-87.2112
+8732828|Weeks Bay, Mobile Bay, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8732828|30.4167|-87.825
+8735180|Dauphin Island, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8735180|30.25|-88.075
+8735391|Dog River Bridge, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8735391|30.5652|-88.088
+8735523|East Fowl River Bridge, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8735523|30.4437|-88.1139
+8736897|Coast Guard Sector Mobile, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8736897|30.6483|-88.0583
+8737048|Mobile State Docks, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8737048|30.7083|-88.0433
+8737138|Chickasaw Creek, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8737138|30.7819|-88.0736
+8738043|West Fowl River Bridge, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8738043|30.3766|-88.1586
+8739803|Bayou La Batre Bridge, AL|urn:ioos:station:NOAA.NOS.CO-OPS:8739803|30.4057|-88.2477
+8741041|Dock E, Port of Pascagoula, MS|urn:ioos:station:NOAA.NOS.CO-OPS:8741041|30.3477|-88.5054
+8741533|Pascagoula NOAA Lab, MS|urn:ioos:station:NOAA.NOS.CO-OPS:8741533|30.3679|-88.563
+8747437|Bay Waveland Yacht Club, MS|urn:ioos:station:NOAA.NOS.CO-OPS:8747437|30.3264|-89.3258
+8760721|Pilottown, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8760721|29.1783|-89.2583
+8760922|Pilots Station East, SW Pass, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8760922|28.9322|-89.4075
+8761305|Shell Beach, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8761305|29.8681|-89.6732
+8761724|Grand Isle, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8761724|29.2633|-89.9567
+8761927|New Canal Station, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8761927|30.0272|-90.1134
+8761955|Carrollton, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8761955|29.9329|-90.1355
+8762075|Port Fourchon, Belle Pass, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8762075|29.1142|-90.1992
+8762482|West Bank 1, Bayou Gauche, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8762482|29.7886|-90.4202
+8762483|I-10 Bonnet Carre Floodway, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8762483|30.0679|-90.39
+8764044|Berwick, Atchafalaya River, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8764044|29.6675|-91.2376
+8764227|LAWMA, Amerada Pass, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8764227|29.4496|-91.3381
+8766072|Freshwater Canal Locks, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8766072|29.5517|-92.3052
+8767816|Lake Charles, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8767816|30.2236|-93.2217
+8767961|Bulk Terminal, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8767961|30.1903|-93.3007
+8768094|Calcasieu Pass, LA|urn:ioos:station:NOAA.NOS.CO-OPS:8768094|29.7682|-93.3429
+8770475|Port Arthur (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770475|29.8667|-93.93
+8770520|Rainbow Bridge (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770520|29.98|-93.8817
+8770570|Sabine Pass North, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770570|29.7284|-93.8701
+8770613|Morgans Point, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770613|29.6817|-94.985
+8770733|Lynchburg Landing (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770733|29.765|-95.0783
+8770777|Manchester (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770777|29.7263|-95.2658
+8770808|High Island (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770808|29.5947|-94.3903
+8770971|Rollover Pass (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8770971|29.515|-94.5133
+8771013|Eagle Point, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8771013|29.48|-94.9183
+8771341|Galveston Bay Entrance, N Jetty (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8771341|29.3573|-94.7248
+8771450|Galveston Pier 21, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8771450|29.31|-94.7933
+8771972|San Luis Pass (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8771972|29.095|-95.1133
+8772447|USCG Freeport, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8772447|28.9433|-95.3025
+8773259|Port Lavaca (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8773259|28.64|-96.595
+8773701|Port O'Connor (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8773701|28.4517|-96.3883
+8774513|Copano Bay (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8774513|28.1183|-97.0217
+8774770|Rockport, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8774770|28.0217|-97.0467
+8775237|Port Aransas (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8775237|27.8383|-97.0733
+8775244|Nueces Bay (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8775244|27.8328|-97.4859
+8775792|Packery Channel (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8775792|27.6333|-97.2367
+8775870|Bob Hall Pier, Corpus Christi, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8775870|27.58|-97.2167
+8776604|Baffin Bay (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8776604|27.295|-97.405
+8777812|Rincon Del San Jose (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8777812|26.825|-97.4917
+8778490|Port Mansfield (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8778490|26.5546|-97.4221
+8779280|Realitos Peninsula (TCOON), TX|urn:ioos:station:NOAA.NOS.CO-OPS:8779280|26.2622|-97.2854
+8779770|Port Isabel, TX|urn:ioos:station:NOAA.NOS.CO-OPS:8779770|26.06|-97.215
+9014070|Algonac, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014070|42.621|-82.5269
+9014080|St Clair State Police, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014080|42.8124|-82.4858
+9014087|Dry Dock, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014087|42.9453|-82.4435
+9014090|Mouth of the Black River, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014090|42.9738|-82.4204
+9014096|Dunn Paper, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014096|43.0025|-82.4224
+9014098|Fort Gratiot, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9014098|43.0069|-82.4225
+9034052|St Clair Shores, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9034052|42.4732|-82.8792
+9044020|Gibraltar, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9044020|42.0909|-83.186
+9044030|Wyandotte, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9044030|42.2024|-83.1475
+9044036|Fort Wayne, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9044036|42.2989|-83.0926
+9044049|Windmill Point, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9044049|42.3578|-82.9299
+9052000|Cape Vincent, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9052000|44.1302|-76.332
+9052030|Oswego, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9052030|43.4642|-76.5118
+9052058|Rochester, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9052058|43.269|-77.6258
+9052076|Olcott, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9052076|43.3384|-78.7273
+9063007|Ashland Ave, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9063007|43.0999|-79.0599
+9063009|American Falls, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9063009|43.0811|-79.0614
+9063012|Niagara Intake, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9063012|43.0769|-79.0139
+9063020|Buffalo, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9063020|42.8774|-78.8905
+9063028|Sturgeon Point, NY|urn:ioos:station:NOAA.NOS.CO-OPS:9063028|42.6913|-79.0473
+9063038|Erie, PA|urn:ioos:station:NOAA.NOS.CO-OPS:9063038|42.154|-80.0925
+9063053|Fairport, OH|urn:ioos:station:NOAA.NOS.CO-OPS:9063053|41.7598|-81.2811
+9063063|Cleveland, OH|urn:ioos:station:NOAA.NOS.CO-OPS:9063063|41.5409|-81.6355
+9063079|Marblehead, OH|urn:ioos:station:NOAA.NOS.CO-OPS:9063079|41.5436|-82.7314
+9063085|Toledo, OH|urn:ioos:station:NOAA.NOS.CO-OPS:9063085|41.6936|-83.4723
+9063090|Fermi Power Plant, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9063090|41.9601|-83.2569
+9075002|Lakeport, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075002|43.1404|-82.4939
+9075014|Harbor Beach, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075014|43.8462|-82.6431
+9075035|Essexville, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075035|43.6404|-83.8468
+9075065|Alpena, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075065|45.063|-83.4286
+9075080|Mackinaw City, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075080|45.7779|-84.7253
+9075099|De Tour Village, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9075099|45.9925|-83.8982
+9076024|Rock Cut, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9076024|46.2648|-84.1912
+9076027|West Neebish Island, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9076027|46.2847|-84.2098
+9076033|Little Rapids, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9076033|46.4857|-84.3018
+9076060|U.S. Slip, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9076060|46.501|-84.3403
+9076070|S.W. Pier, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9076070|46.5011|-84.3726
+9087023|Ludington, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9087023|43.9474|-86.4416
+9087031|Holland, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9087031|42.7681|-86.2012
+9087044|Calumet Harbor, IL|urn:ioos:station:NOAA.NOS.CO-OPS:9087044|41.7299|-87.5384
+9087057|Milwaukee, WI|urn:ioos:station:NOAA.NOS.CO-OPS:9087057|43.002|-87.8876
+9087068|Kewaunee, WI|urn:ioos:station:NOAA.NOS.CO-OPS:9087068|44.464|-87.501
+9087072|Sturgeon Bay Canal, WI|urn:ioos:station:NOAA.NOS.CO-OPS:9087072|44.7956|-87.3143
+9087079|Green Bay, WI|urn:ioos:station:NOAA.NOS.CO-OPS:9087079|44.5411|-88.0072
+9087088|Menominee, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9087088|45.0959|-87.5899
+9087096|Port Inland, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9087096|45.9699|-85.8715
+9099004|Point Iroquois, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9099004|46.4845|-84.6309
+9099018|Marquette C.G., MI|urn:ioos:station:NOAA.NOS.CO-OPS:9099018|46.5456|-87.3791
+9099044|Ontonagon, MI|urn:ioos:station:NOAA.NOS.CO-OPS:9099044|46.8743|-89.3242
+9099064|Duluth, MN|urn:ioos:station:NOAA.NOS.CO-OPS:9099064|46.7757|-92.092
+9099090|Grand Marais, MN|urn:ioos:station:NOAA.NOS.CO-OPS:9099090|47.7478|-90.3413
+9410170|San Diego, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9410170|32.7142|-117.1736
+9410230|La Jolla, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9410230|32.8667|-117.258
+9410660|Los Angeles, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9410660|33.72|-118.272
+9410840|Santa Monica, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9410840|34.0083|-118.5
+9411340|Santa Barbara, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9411340|34.4083|-119.685
+9411406|Oil Platform Harvest, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9411406|34.4683|-120.673
+9412110|Port San Luis, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9412110|35.1767|-120.76
+9413450|Monterey, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9413450|36.605|-121.888
+9414290|San Francisco, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414290|37.8067|-122.465
+9414523|Redwood City, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414523|37.5067|-122.21
+9414575|Coyote Creek, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414575|37.465|-122.023
+9414750|Alameda, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414750|37.7717|-122.2983
+9414863|Richmond, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414863|37.9283|-122.4
+9414958|Bolinas, Bolinas Lagoon, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9414958|37.908|-122.6785
+9415020|Point Reyes, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9415020|37.9961|-122.9767
+9415102|Martinez-Amorco Pier, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9415102|38.0346|-122.1252
+9415144|Port Chicago, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9415144|38.056|-122.0395
+9416841|Arena Cove, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9416841|38.9133|-123.708
+9418767|North Spit, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9418767|40.7667|-124.217
+9419750|Crescent City, CA|urn:ioos:station:NOAA.NOS.CO-OPS:9419750|41.745|-124.183
+9431647|Port Orford, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9431647|42.739|-124.4983
+9432780|Charleston, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9432780|43.345|-124.322
+9435380|South Beach, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9435380|44.625|-124.043
+9437540|Garibaldi, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9437540|45.5545|-123.9189
+9439040|Astoria, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9439040|46.2073|-123.7683
+9439099|Wauna, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9439099|46.16|-123.405
+9439201|St Helens, OR|urn:ioos:station:NOAA.NOS.CO-OPS:9439201|45.865|-122.797
+9440083|Vancouver, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9440083|45.6317|-122.697
+9440422|Longview, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9440422|46.1061|-122.9542
+9440569|Skamokawa, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9440569|46.2667|-123.452
+9440910|Toke Point, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9440910|46.7075|-123.9669
+9441102|Westport, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9441102|46.9043|-124.1051
+9442396|La Push, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9442396|47.9133|-124.637
+9443090|Neah Bay, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9443090|48.3667|-124.6117
+9444090|Port Angeles, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9444090|48.125|-123.44
+9444900|Port Townsend, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9444900|48.1117|-122.758
+9446484|Tacoma, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9446484|47.2667|-122.4133
+9447130|Seattle, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9447130|47.6026|-122.3393
+9449424|Cherry Point, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9449424|48.8633|-122.758
+9449880|Friday Harbor, WA|urn:ioos:station:NOAA.NOS.CO-OPS:9449880|48.5467|-123.01
+9450460|Ketchikan, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9450460|55.3318|-131.6262
+9451054|Port Alexander, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9451054|56.2467|-134.647
+9451600|Sitka, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9451600|57.0517|-135.342
+9452210|Juneau, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9452210|58.2983|-134.412
+9452400|Skagway, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9452400|59.45|-135.327
+9452634|Elfin Cove, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9452634|58.1947|-136.3469
+9453220|Yakutat, Yakutat Bay, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9453220|59.5485|-139.7334
+9454050|Cordova, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9454050|60.5583|-145.753
+9454240|Valdez, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9454240|61.125|-146.362
+9455090|Seward, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9455090|60.12|-149.4267
+9455500|Seldovia, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9455500|59.4405|-151.7199
+9455760|Nikiski, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9455760|60.6833|-151.398
+9455920|Anchorage, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9455920|61.2383|-149.89
+9457292|Kodiak Island, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9457292|57.7317|-152.512
+9457804|Alitak, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9457804|56.8983|-154.247
+9459450|Sand Point, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9459450|55.3367|-160.502
+9459881|King Cove, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9459881|55.0617|-162.327
+9461380|Adak Island, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9461380|51.8633|-176.632
+9461710|Atka, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9461710|52.2317|-174.173
+9462450|Nikolski, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9462450|52.9406|-168.8713
+9462620|Unalaska, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9462620|53.88|-166.537
+9463502|Port Moller, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9463502|55.99|-160.562
+9464212|Village Cove, St Paul Island, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9464212|57.1253|-170.2852
+9468756|Nome, Norton Sound, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9468756|64.5|-165.43
+9491094|Red Dog Dock, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9491094|67.5767|-164.065
+9497645|Prudhoe Bay, AK|urn:ioos:station:NOAA.NOS.CO-OPS:9497645|70.4|-148.527
+9751364|Christiansted Harbor, St Croix, VI|urn:ioos:station:NOAA.NOS.CO-OPS:9751364|17.75|-64.705
+9751381|Lameshur Bay, St John, VI|urn:ioos:station:NOAA.NOS.CO-OPS:9751381|18.3182|-64.7242
+9751401|Lime Tree Bay, VI|urn:ioos:station:NOAA.NOS.CO-OPS:9751401|17.6947|-64.7538
+9751639|Charlotte Amalie, VI|urn:ioos:station:NOAA.NOS.CO-OPS:9751639|18.3358|-64.92
+9752619|Isabel Segunda, Vieques Island, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9752619|18.1525|-65.4438
+9752695|Esperanza, Vieques Island, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9752695|18.0939|-65.4714
+9753216|Fajardo, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9753216|18.3352|-65.6311
+9754228|Yabucoa Harbor, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9754228|18.0551|-65.833
+9755371|San Juan, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9755371|18.4589|-66.1164
+9757809|Arecibo, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9757809|18.4805|-66.7024
+9759110|Magueyes Island, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9759110|17.9701|-67.0464
+9759394|Mayaguez, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9759394|18.22|-67.16
+9759938|Mona Island, PR|urn:ioos:station:NOAA.NOS.CO-OPS:9759938|18.0899|-67.9385
+9761115|Barbuda|urn:ioos:station:NOAA.NOS.CO-OPS:9761115|17.5907|-61.8206

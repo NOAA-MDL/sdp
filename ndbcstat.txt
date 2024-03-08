@@ -1,0 +1,346 @@
+# NDBC Active station ID|Name|URN|Lat|Lon
+0y2w3|Sturgeon Bay CG Station, WS|urn:ioos:station:wmo:0y2w3|44.794|-87.313
+32st0|Stratus|urn:ioos:station:wmo:32st0|-19.713|-85.585
+41001|150 NM East of Cape HATTERAS|urn:ioos:station:wmo:41001|34.7|-72.73
+41002|S HATTERAS - 250 NM East of Charleston, SC|urn:ioos:station:wmo:41002|32.382|-75.415
+41004|EDISTO - 41 NM Southeast of Charleston, SC|urn:ioos:station:wmo:41004|32.5|-79.09
+41008|GRAYS REEF - 40 NM Southeast of Savannah, GA|urn:ioos:station:wmo:41008|31.4|-80.87
+41009|CANAVERAL 20 NM East of Cape Canaveral, FL|urn:ioos:station:wmo:41009|28.519|-80.166
+41010|CANAVERAL EAST 120NM East of Cape Canaveral|urn:ioos:station:wmo:41010|28.91|-78.47
+41012|40NM ENE of St Augustine, FL|urn:ioos:station:wmo:41012|30.04|-80.55
+41013|Frying Pan Shoals, NC|urn:ioos:station:wmo:41013|33.44|-77.74
+41024|Sunset Nearshore (SUN2)|urn:ioos:station:wmo:41024|33.85|-78.48
+41029|Capers Nearshore (CAP2)|urn:ioos:station:wmo:41029|32.81|-79.63
+41036|Onslow Bay, NC|urn:ioos:station:wmo:41036|34.21|-76.95
+41037|ILM3 - 27 miles SE of Wrightsville Beach, NC|urn:ioos:station:wmo:41037|33.991|-77.36
+41038|ILM2 - 5 miles SE of Wrightsville, NC|urn:ioos:station:wmo:41038|34.14|-77.71
+41040|West Atlantic|urn:ioos:station:wmo:41040|14.48|-53.03
+41041|Middle Atlantic|urn:ioos:station:wmo:41041|14.36|-46.01
+41043|South Western Atlantic|urn:ioos:station:wmo:41043|20.99|-65.01
+41044| Atlantic South|urn:ioos:station:wmo:41044|21.652|-58.695
+41046|E Bahamas|urn:ioos:station:wmo:41046|24|-70.99
+41047|NE Bahamas|urn:ioos:station:wmo:41047|27.47|-71.49
+41048|W Bermuda|urn:ioos:station:wmo:41048|31.98|-69.65
+41049|Atlantic (South)|urn:ioos:station:wmo:41049|27.5|-63
+41052|South of St. John, Virgin Islands|urn:ioos:station:wmo:41052|18.251|-64.763
+41053|San Juan, PR|urn:ioos:station:wmo:41053|18.476|-66.099
+42001|MID GULF 180 nm South of Southwest Pass, LA|urn:ioos:station:wmo:42001|25.9|-89.67
+42002|W GULF 240 nm South-Southeast of Sabine, TX|urn:ioos:station:wmo:42002|25.17|-94.42
+42003|E GULF 262 nm South of Panama City, FL|urn:ioos:station:wmo:42003|25.74|-85.73
+42012|Orange Beach AL Buoy|urn:ioos:station:wmo:42012|30.065|-87.555
+42013|C10 - Navy-2|urn:ioos:station:wmo:42013|27.169|-82.926
+42020|Corpus Christi, TX 50NM Southeast of Corpus Christi, TX|urn:ioos:station:wmo:42020|26.96|-96.7
+42021|C14 - Pasco County Buoy, FL|urn:ioos:station:wmo:42021|28.311|-83.306
+42022|C12 - West Florida Central Buoy|urn:ioos:station:wmo:42022|27.5|-83.72
+42023|C13 - West Florida South Buoy|urn:ioos:station:wmo:42023|26.064|-83.074
+42035|GALVESTON  22NM East of Galveston, TX|urn:ioos:station:wmo:42035|29.25|-94.41
+42036|W. TAMPA  106NM West Northwest of Tampa, FL|urn:ioos:station:wmo:42036|28.5|-84.52
+42040|MOBILE SOUTH 64 nm South of Dauphin Island, AL|urn:ioos:station:wmo:42040|29.21|-88.21
+42044|PS-1126 TABS J|urn:ioos:station:wmo:42044|26.19|-97.05
+42046|HI-A595 TABS N|urn:ioos:station:wmo:42046|27.89|-94.037
+42055|Bay of Campeche|urn:ioos:station:wmo:42055|22.017|-94.046
+42056|Yucatan Basin|urn:ioos:station:wmo:42056|19.87|-85.06
+42057|Western Caribbean|urn:ioos:station:wmo:42057|16.83|-81.5
+42058|Central Caribbean|urn:ioos:station:wmo:42058|15.09|-75.06
+42059|Eastern Caribbean|urn:ioos:station:wmo:42059|15.01|-67.5
+42060|Eastern Carribean|urn:ioos:station:wmo:42060|16.5|-63.5
+42085|Southeast of Ponce, PR|urn:ioos:station:wmo:42085|17.86|-66.524
+42360|BW Pioneer buoy - Walker Ridge 249|urn:ioos:station:wmo:42360|26.7|-90.46
+42361|Auger - Garden Banks 426|urn:ioos:station:wmo:42361|27.55|-92.49
+42362|Brutus - Green Canyon 158|urn:ioos:station:wmo:42362|27.8|-90.67
+42363|Mars - Mississippi Canyon 807|urn:ioos:station:wmo:42363|28.16|-89.22
+42364|Ram-Powell - Viosca Knoll 936|urn:ioos:station:wmo:42364|29.06|-88.09
+42365|Ursa - Mississippi Canyon 809|urn:ioos:station:wmo:42365|28.2|-89.12
+42369|Mad Dog - Green Canyon 782|urn:ioos:station:wmo:42369|27.19|-90.27
+42370|Holstein - Green Canyon 645|urn:ioos:station:wmo:42370|27.32|-90.54
+42375|Na Kika - Mississippi Canyon 474|urn:ioos:station:wmo:42375|28.52|-88.29
+42376|Marlin - Viosca Knoll 915|urn:ioos:station:wmo:42376|29.16|-87.94
+42390|Perdido Host - Alaminos Canyon 857|urn:ioos:station:wmo:42390|26.129|-94.898
+42887|Thunder Horse - Mississippi Canyon 778|urn:ioos:station:wmo:42887|28.19|-88.5
+44005|GULF OF MAINE 78 NM EAST OF PORTSMOUTH,NH|urn:ioos:station:wmo:44005|43.19|-69.14
+44007|12 NM Southeast of Portland, ME|urn:ioos:station:wmo:44007|43.53|-70.14
+44008|54NM Southeast of Nantucket|urn:ioos:station:wmo:44008|40.5|-69.43
+44009|DELAWARE BAY 26 NM Southeast of Cape May, NJ|urn:ioos:station:wmo:44009|38.46|-74.7
+44011|170 NM East of Hyannis, MA|urn:ioos:station:wmo:44011|41.11|-66.58
+44013|BOSTON 16 NM East of Boston, MA|urn:ioos:station:wmo:44013|42.35|-70.69
+44014|64 NM East of Virginia Beach, VA|urn:ioos:station:wmo:44014|36.61|-74.84
+44018|SE Cape Cod, 30NM East of Nantucket, MA|urn:ioos:station:wmo:44018|41.26|-69.29
+44020|NANTUCKET SOUND|urn:ioos:station:wmo:44020|41.443|-70.186
+44022|Execution Rocks|urn:ioos:station:wmo:44022|40.88|-73.73
+44024|Buoy N - Northeast Channel|urn:ioos:station:wmo:44024|42.312|-65.927
+44025|LONG ISLAND 33 NM South of Islip, NY|urn:ioos:station:wmo:44025|40.25|-73.17
+44027|Jonesport, Maine|urn:ioos:station:wmo:44027|44.27|-67.31
+44029|Buoy A0102 - Mass. Bay/Stellwagen|urn:ioos:station:wmo:44029|42.52|-70.57
+44030|Buoy B0102 - Western Maine Shelf|urn:ioos:station:wmo:44030|43.18|-70.43
+44032|Buoy E0104 - Central Maine Shelf|urn:ioos:station:wmo:44032|43.71|-69.36
+44033|Buoy F0103 - West Penobscot Bay|urn:ioos:station:wmo:44033|44.06|-69
+44034|Buoy I0103 - Eastern Maine Shelf|urn:ioos:station:wmo:44034|44.11|-68.11
+44037|Buoy M0102 - Jordan Basin|urn:ioos:station:wmo:44037|43.49|-67.88
+44039|Central Long Island Sound|urn:ioos:station:wmo:44039|41.138|-72.655
+44040|Western Long Island Sound|urn:ioos:station:wmo:44040|40.956|-73.58
+44041|Jamestown, VA|urn:ioos:station:wmo:44041|37.204|-76.777
+44042|Potomac, MD|urn:ioos:station:wmo:44042|38.033|-76.336
+44043|Patapsco, MD|urn:ioos:station:wmo:44043|39.152|-76.391
+44057|Susquehanna, MD|urn:ioos:station:wmo:44057|39.544|-76.075
+44058|Stingray Point, VA|urn:ioos:station:wmo:44058|37.552|-76.251
+44059|Norfolk, VA|urn:ioos:station:wmo:44059|36.846|-76.298
+44061|Upper Potmac, MD|urn:ioos:station:wmo:44061|38.785|-77.036
+44062|Gooses Reef, MD|urn:ioos:station:wmo:44062|38.553|-76.415
+44063|Annapolis|urn:ioos:station:wmo:44063|38.963|-76.448
+44064|FIRST LANDING|urn:ioos:station:wmo:44064|36.979|-76.043
+44065|Entrance to New York Harbor|urn:ioos:station:wmo:44065|40.369|-73.703
+44067|Potomac River, Near HWY 301|urn:ioos:station:wmo:44067|38.368|-76.996
+45001|MID SUPERIOR 60NM North Northeast Hancock, MI|urn:ioos:station:wmo:45001|48.06|-87.78
+45002|N MICHIGAN- Halfway between North Manitou and Washington Islands.|urn:ioos:station:wmo:45002|45.33|-86.43
+45003|N HURON 37NM Northeast of Alpena, MI.|urn:ioos:station:wmo:45003|45.35|-82.84
+45004|78NM Northeast of Marquette, MI|urn:ioos:station:wmo:45004|47.56|-86.54
+45005|W ERIE 28NM Northwest of Cleveland, OH|urn:ioos:station:wmo:45005|41.68|-82.4
+45006|W SUPERIOR 48NM North of Ironwood, MI|urn:ioos:station:wmo:45006|47.33|-89.79
+45007|S MICHIGAN 43NM East Southeast of Milwaukee, WI|urn:ioos:station:wmo:45007|42.68|-87.03
+45008|S HURON 43NM East of Oscoda, MI|urn:ioos:station:wmo:45008|44.28|-82.42
+45012|Lake Ontario Buoy - 20NM North Northeast of Rochester, NY|urn:ioos:station:wmo:45012|43.62|-77.41
+45013|Atwater Park, WI|urn:ioos:station:wmo:45013|43.098|-87.85
+45014|Central Green Bay, WI|urn:ioos:station:wmo:45014|44.795|-87.759
+45022|Little Traverse Bay, MI|urn:ioos:station:wmo:45022|45.403|-85.088
+45023|Portage Canal|urn:ioos:station:wmo:45023|47.279|-88.611
+45024|Ludington, MI|urn:ioos:station:wmo:45024|43.977|-86.56
+45025|South Entrance to Keweenaw Waterway, MI|urn:ioos:station:wmo:45025|46.95|-88.409
+45026|St. Joseph, MI|urn:ioos:station:wmo:45026|41.983|-86.617
+45027|North of Duluth, MN|urn:ioos:station:wmo:45027|46.864|-91.929
+45028|Western Lake Superior|urn:ioos:station:wmo:45028|46.812|-91.835
+45029|Holland, MI|urn:ioos:station:wmo:45029|42.801|-86.264
+45161|Muskegon, MI|urn:ioos:station:wmo:45161|43.179|-86.336
+45162|Alpena, MI|urn:ioos:station:wmo:45162|44.984|-83.269
+45164|Cleveland, OH|urn:ioos:station:wmo:45164|41.734|-81.698
+46001|GULF OF AK, 88NM South of Kodiak, AK|urn:ioos:station:wmo:46001|56.3|-148.02
+46002|OREGON - 275NM West of Coos Bay, OR|urn:ioos:station:wmo:46002|42.57|-130.46
+46006|SE PAPA - 600NM West of Eureka, CA|urn:ioos:station:wmo:46006|40.886|-137.451
+46011|SANTA MARIA - 21 NM Northwest of Point Arguello, CA|urn:ioos:station:wmo:46011|34.868|-120.857
+46012|HALF MOON BAY - 24NM South Southwest of San Francisco, CA|urn:ioos:station:wmo:46012|37.361|-122.881
+46013|Bodega Bay - 48NM North Northwest of San Francisco, CA|urn:ioos:station:wmo:46013|38.23|-123.32
+46014|PT ARENA - 19NM North of Point Arena, CA|urn:ioos:station:wmo:46014|39.22|-123.97
+46015|Port Orford - 16NM West of Port Orford, OR|urn:ioos:station:wmo:46015|42.76|-124.83
+46022|EEL RIVER - 17NM West-Southwest of Eureka, CA|urn:ioos:station:wmo:46022|40.78|-124.54
+46026|SAN FRANCISCO - 18NM West of San Francisco, CA|urn:ioos:station:wmo:46026|37.75|-122.82
+46027|ST GEORGES - 8NM West Northwest of Crescent City, CA|urn:ioos:station:wmo:46027|41.85|-124.38
+46028|CAPE SAN MARTIN - 55NM West Northwest of Morro Bay, CA|urn:ioos:station:wmo:46028|35.74|-121.88
+46029|COL RIVER BAR - 78NM South Southwest of Aberdeen, WA|urn:ioos:station:wmo:46029|46.14|-124.51
+46035|BERING SEA 310 NM North of Adak, AK|urn:ioos:station:wmo:46035|57.07|-177.75
+46041|CAPE ELIZABETH- 45NM Northwest of Aberdeen, WA|urn:ioos:station:wmo:46041|47.34|-124.75
+46042|MONTEREY - 27NM West of Monterey Bay, CA|urn:ioos:station:wmo:46042|36.75|-122.42
+46050|STONEWALL BANKS - 20NM West of Newport, OR|urn:ioos:station:wmo:46050|44.64|-124.5
+46053|E. SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA|urn:ioos:station:wmo:46053|34.24|-119.85
+46054|SANTA BARBARA W 38 NM West of Santa Barbara, CA|urn:ioos:station:wmo:46054|34.27|-120.45
+46059|CALIFORNIA - 357NM West of San Francisco, CA|urn:ioos:station:wmo:46059|37.98|-130
+46060|West Orca Bay - 36NM South-Southwest of Valdez, AK|urn:ioos:station:wmo:46060|60.59|-146.83
+46061|Seal Rocks 55NM South of Valdez, AK|urn:ioos:station:wmo:46061|60.22|-146.83
+46070|S.W. Bering Sea|urn:ioos:station:wmo:46070|55|175.28
+46071|Western Aleutians|urn:ioos:station:wmo:46071|51.15|179
+46072|Central Aleutions - 230NM Southwest of Dutch Harbor|urn:ioos:station:wmo:46072|51.63|-172.17
+46075|Shumagin Islands, AK|urn:ioos:station:wmo:46075|53.926|-160.806
+46076|Cape Cleare AK|urn:ioos:station:wmo:46076|59.5|-148
+46077|Shelikof Strait, AK|urn:ioos:station:wmo:46077|57.92|-154.25
+46080|Northwest Gulf 57NM East of Kodiak, AK|urn:ioos:station:wmo:46080|58.04|-149.99
+46081|Western Prince William Sound|urn:ioos:station:wmo:46081|60.8|-148.28
+46082|Cape Suckling 84NM Southeast of Cordova, AK|urn:ioos:station:wmo:46082|59.69|-143.4
+46083|Fairweather Grounds 92NM Southeast of Yakutat, AK|urn:ioos:station:wmo:46083|58.24|-137.99
+46084|Cape Edgecumbe Buoy, AK|urn:ioos:station:wmo:46084|56.63|-136.15
+46086|San Clemente Basin|urn:ioos:station:wmo:46086|32.5|-118
+46087|Neah Bay, WA (Traffic Separation Lighted Buoy)|urn:ioos:station:wmo:46087|49.89|-124.73
+46088|New Dungeness, WA (Hein Bank)|urn:ioos:station:wmo:46088|48.33|-123.17
+46092|MBM1|urn:ioos:station:wmo:46092|36.75|-122.02
+46109|Port Angeles Buoy|urn:ioos:station:wmo:46109|48.123|-123.395
+46110|Sequim Buoy|urn:ioos:station:wmo:46110|48.115|-123.032
+46111|Fort Worden Buoy|urn:ioos:station:wmo:46111|48.131|-122.748
+46112|Marrowstone Buoy|urn:ioos:station:wmo:46112|48.1|-122.73
+46113|Poulsbo Buoy|urn:ioos:station:wmo:46113|47.73|-122.646
+48211|Camden Bay (Shell Arctic)|urn:ioos:station:wmo:48211|70.37|-146.038
+48212|Harrison Bay (Shell Arctic) |urn:ioos:station:wmo:48212|70.875|-150.276
+48213|Burger (MOB2)|urn:ioos:station:wmo:48213|70.522|-164.084
+48214|Klondike (MOB1)|urn:ioos:station:wmo:48214|70.872|-165.249
+51000|Northern Hawaii|urn:ioos:station:wmo:51000|23.464|-154
+51002|SW Hawaii - 215NM South-Southwest of Hilo, HI|urn:ioos:station:wmo:51002|17.19|-157.78
+51003|W Hawaii - 205NM Southwest of Honolulu, HI|urn:ioos:station:wmo:51003|19.09|-160.66
+51004|SE Hawaii - 185NM Southeast of Hilo, HI|urn:ioos:station:wmo:51004|17.59|-152.46
+51100|Northern Hawaii|urn:ioos:station:wmo:51100|23.558|-153.9
+51101|NW Hawaii|urn:ioos:station:wmo:51101|24.321|-162.058
+51wh0|WHOTS - Woods Hole Ocean Time-series|urn:ioos:station:wmo:51wh0|22.65|-157.933
+agmw3|Algoma City Marina WI|urn:ioos:station:wmo:agmw3|44.608|-87.433
+amaa2|East Amatuli Station Light, AK|urn:ioos:station:wmo:amaa2|58.915|-151.952
+ancf1|Anclote Gulf Park, FL|urn:ioos:station:wmo:ancf1|28.193|-82.789
+anmf1|ANM - Anna Maria, FL|urn:ioos:station:wmo:anmf1|27.55|-82.75
+apnm4|Alpena Harbor Light, MI|urn:ioos:station:wmo:apnm4|45.06|-83.424
+arop4|9757809 - Arecibo, PR|urn:ioos:station:wmo:arop4|18.48|-66.702
+arpf1|APK - Aripeka, FL|urn:ioos:station:wmo:arpf1|28.433|-82.667
+auga2|Augustine Island, AK|urn:ioos:station:wmo:auga2|59.378|-153.348
+babt2|8776604 - Baffin Bay; Point of Rocks, TX|urn:ioos:station:wmo:babt2|27.301|-97.416
+bgcf1|Big Carlos Pass, FL|urn:ioos:station:wmo:bgcf1|26.404|-81.881
+bhri3|Burns Harbor, IN|urn:ioos:station:wmo:bhri3|41.647|-87.147
+bigm4|Big Bay, MI|urn:ioos:station:wmo:bigm4|46.83|-87.73
+blia2|Bligh Reef Light, AK|urn:ioos:station:wmo:blia2|60.84|-146.88
+blta2|Bartlet Cove AK|urn:ioos:station:wmo:blta2|58.455|-135.888
+bsbm4|Big Sable Point, MI|urn:ioos:station:wmo:bsbm4|44.055|-86.514
+bsca1|Bon Secour, AL|urn:ioos:station:wmo:bsca1|30.329|-87.829
+burl1|Southwest Pass, LA|urn:ioos:station:wmo:burl1|28.905|-89.428
+buzm3|Buzzards Bay, MA|urn:ioos:station:wmo:buzm3|41.397|-71.033
+camf1|Campbell Park, FL|urn:ioos:station:wmo:camf1|27.765|-82.649
+caro3|Cape Arago, OR|urn:ioos:station:wmo:caro3|43.342|-124.375
+cblo1|Conneaut Breakwater Light, OH|urn:ioos:station:wmo:cblo1|41.981|-80.555
+cbrw3|Chambers Island, WI|urn:ioos:station:wmo:cbrw3|45.198|-87.36
+cdea2|Cape Decision, AK|urn:ioos:station:wmo:cdea2|56.002|-134.133
+cdrf1|Cedar Key, FL|urn:ioos:station:wmo:cdrf1|29.136|-83.029
+chds1|Strom Thurmond Dam, SC|urn:ioos:station:wmo:chds1|33.662|-82.2
+chlv2|Chesapeake Light, VA|urn:ioos:station:wmo:chlv2|36.91|-75.71
+clkn7|Cape Lookout, NC|urn:ioos:station:wmo:clkn7|34.622|-76.525
+clsm4|St. Clair Shores, MI|urn:ioos:station:wmo:clsm4|42.471|-82.877
+cpnt2|Copano Bay, TX|urn:ioos:station:wmo:cpnt2|28.118|-97.022
+cpxc1|Cal Poly Pier, CA|urn:ioos:station:wmo:cpxc1|35.17|-120.741
+crta1|Cedar Point, AL|urn:ioos:station:wmo:crta1|30.308|-88.14
+cspa2|Cape Spencer, AK|urn:ioos:station:wmo:cspa2|58.199|-136.639
+cygm4|Cheybogan, MI|urn:ioos:station:wmo:cygm4|45.651|-84.472
+dbln6|Dunkirk, NY|urn:ioos:station:wmo:dbln6|42.493|-79.353
+desw1|Destruction Is., WA|urn:ioos:station:wmo:desw1|47.675|-124.485
+disw3|Devils Island, WI|urn:ioos:station:wmo:disw3|47.08|-90.728
+dpia1|Dauphin Island, AL|urn:ioos:station:wmo:dpia1|30.248|-88.073
+drfa2|Drift River Terminal, AK|urn:ioos:station:wmo:drfa2|60.553|-152.137
+egkf1|EGK - Egmont Key, FL|urn:ioos:station:wmo:egkf1|27.601|-82.76
+eroa2|Eldred Rock, AK|urn:ioos:station:wmo:eroa2|58.971|-135.22
+fbis1|Folly Island, SC|urn:ioos:station:wmo:fbis1|32.685|-79.888
+ffia2|Five Finger, AK|urn:ioos:station:wmo:ffia2|57.272|-133.63
+fhpf1|Fred Howard Park, FL|urn:ioos:station:wmo:fhpf1|28.153|-82.801
+fila2|Flat Island Light, AK|urn:ioos:station:wmo:fila2|59.332|-151.995
+fptm4|Fairport, MI|urn:ioos:station:wmo:fptm4|45.619|-86.659
+frdp4|9753216 - Fajardo, PR|urn:ioos:station:wmo:frdp4|18.335|-65.631
+fwyf1|Fowey Rocks, FL|urn:ioos:station:wmo:fwyf1|25.59|-80.097
+gelo1|Geneva on the Lake, OH|urn:ioos:station:wmo:gelo1|41.86|-80.974
+grmm4|Grand Marais, MI|urn:ioos:station:wmo:grmm4|46.68|-85.97
+gslm4|Gravelly Shoals Light MI|urn:ioos:station:wmo:gslm4|44.018|-83.537
+gtlm4|Grand Traverse Light, MI|urn:ioos:station:wmo:gtlm4|45.211|-85.55
+gtrm4|Superior Grand Traverse Bay, MI|urn:ioos:station:wmo:gtrm4|47.179|-88.242
+hhlo1|Huron Light, OH|urn:ioos:station:wmo:hhlo1|41.401|-82.545
+iosn3|Isle of Shoals, NH|urn:ioos:station:wmo:iosn3|42.967|-70.623
+kata1|Katrina Cut, AL|urn:ioos:station:wmo:kata1|30.258|-88.213
+katp|Green Canyon 787 / Atlantis (BP)|urn:ioos:station:wmo:katp|27.195|-90.027
+kcrh|West Cameron 368A (Century Exploration)|urn:ioos:station:wmo:kcrh|28.909|-93.302
+kehc|East Cameron 278B (Apache Corp)|urn:ioos:station:wmo:kehc|28.429|-92.878
+keir|Eugene Island 215 (McMoRan Oil & Gas)|urn:ioos:station:wmo:keir|28.634|-91.489
+kemk|East Breaks 165 (SandRidge Energy)|urn:ioos:station:wmo:kemk|27.819|-94.323
+kgbk|Garden Banks 783 / Magnolia TLP (ConocoPhillips)|urn:ioos:station:wmo:kgbk|27.204|-92.203
+kgna|Bay of Grand Marais, MN|urn:ioos:station:wmo:kgna|47.745|-90.346
+kgry|Green Canyon 338 / Front Runner (Murphy E&P)|urn:ioos:station:wmo:kgry|27.625|-90.441
+kgvx|Galveston 424C (Nippon Oil Exploration)|urn:ioos:station:wmo:kgvx|28.577|-94.976
+khqi|High Island 376B (Apache)|urn:ioos:station:wmo:khqi|27.934|-93.669
+kipn|Mississippi Canyon 920 / Independence Hub (Anadarko / Enterprise)|urn:ioos:station:wmo:kipn|28.085|-87.986
+kmdj|Mississippi Canyon 311A (Apache Corp)|urn:ioos:station:wmo:kmdj|28.643|-89.794
+kmis|MP 140B  AWOS (Apache Corp)|urn:ioos:station:wmo:kmis|29.296|-88.842
+kmiu|Mustang Island A31B (Merit Energy)|urn:ioos:station:wmo:kmiu|27.289|-96.736
+kmzg|Mustang Island A85A (Apache Corp)|urn:ioos:station:wmo:kmzg|27.727|-96.191
+knsw3|Kenosha, WI|urn:ioos:station:wmo:knsw3|42.589|-87.809
+kopm|North Padre Island 975 (Peregrine Oil & Gas)|urn:ioos:station:wmo:kopm|26.833|-96.94
+kp53|Munising Lake Shore, MI|urn:ioos:station:wmo:kp53|46.417|-86.65
+kp58|Port Hope, MI|urn:ioos:station:wmo:kp58|44.017|-82.8
+kp59|Copper Harbor, MI|urn:ioos:station:wmo:kp59|47.467|-87.883
+kscf|South Marsh 268A (Apache Corp)|urn:ioos:station:wmo:kscf|29.116|-91.871
+kspr|Ship Shoal 178 (Apache Corp)|urn:ioos:station:wmo:kspr|28.599|-91.206
+ktnf1|Keaton Beach, FL|urn:ioos:station:wmo:ktnf1|29.817|-83.592
+kvaf|East Breaks 643 / Boomvang Spar (Anadarko)|urn:ioos:station:wmo:kvaf|27.354|-94.625
+kvbs|Sabine Pass 13B (Nippon Oil Exploration)|urn:ioos:station:wmo:kvbs|29.478|-93.638
+kvky|Main Pass 289C (Apache Corp.)|urn:ioos:station:wmo:kvky|29.248|-88.441
+kvnp|Vermillion 26 (Mariner Energy)|urn:ioos:station:wmo:kvnp|29.467|-92.368
+kvoa|Visco Knoll 786 / Petronius (Chevron)|urn:ioos:station:wmo:kvoa|29.229|-87.781
+kvqt|Vermillon 331A  (ERT / Helix)|urn:ioos:station:wmo:kvqt|28.27|-92.264
+kxih|High Island 179A AWOS (Apache Corp)|urn:ioos:station:wmo:kxih|29.18|-94.521
+kxpy|Fourchon Heliport  (Era Helicopters)|urn:ioos:station:wmo:kxpy|29.123|-90.202
+lcna2|Lincoln Rock, AK|urn:ioos:station:wmo:lcna2|56.057|-132.696
+ldlc3|New London Ledge CT - Ledge Light Weather Station|urn:ioos:station:wmo:ldlc3|41.305|-72.077
+ljpc1|La Jolla, CA (073)|urn:ioos:station:wmo:ljpc1|32.867|-117.257
+lkwf1|Lake Worth, FL|urn:ioos:station:wmo:lkwf1|26.612|-80.033
+lmbv4|La Mancha Beach, Mexico|urn:ioos:station:wmo:lmbv4|19.594|-96.379
+lmfs1|Lake Murray SC|urn:ioos:station:wmo:lmfs1|34.107|-81.271
+lonf1|Long Key, FL|urn:ioos:station:wmo:lonf1|24.843|-80.862
+lopl1|Louisiana Offshore Oil Port, LA|urn:ioos:station:wmo:lopl1|28.885|-90.024
+lprp4|Media Luna, La Parguera, PR|urn:ioos:station:wmo:lprp4|17.939|-67.052
+lpwa2|Little Port Walter, AK|urn:ioos:station:wmo:lpwa2|56.388|-134.637
+luml1|LUMCON Marine Center, LA|urn:ioos:station:wmo:luml1|29.253|-90.663
+mbla1|Middle Bay Light, AL|urn:ioos:station:wmo:mbla1|30.437|-88.012
+mcyi3|Michigan City, IN|urn:ioos:station:wmo:mcyi3|41.729|-86.913
+mdrm1|Mt Desert Rock, ME|urn:ioos:station:wmo:mdrm1|43.968|-68.128
+meem4|Manistee Harbor, MI|urn:ioos:station:wmo:meem4|44.248|-86.346
+mgzp4|9759394 - Mayaguez, PR|urn:ioos:station:wmo:mgzp4|18.218|-67.159
+mhpa1|Meaher Park, AL|urn:ioos:station:wmo:mhpa1|30.667|-87.936
+mism1|Matinicus Rock, ME|urn:ioos:station:wmo:mism1|43.783|-68.855
+mkgm4|Muskegon, MI|urn:ioos:station:wmo:mkgm4|43.228|-86.339
+mlrf1|Molasses Reef, FL|urn:ioos:station:wmo:mlrf1|25.01|-80.38
+mlsc1|Moss Landing, South Harbor, CA|urn:ioos:station:wmo:mlsc1|36.807|-121.788
+mlww3|Milwaukee, WI|urn:ioos:station:wmo:mlww3|43.046|-87.879
+mrka2|Middle Rock Light, AK|urn:ioos:station:wmo:mrka2|61.082|-146.662
+mrsl1|Marsh Island, LA / CSI03|urn:ioos:station:wmo:mrsl1|29.44|-92.061
+nabm4|Naubinway, MI|urn:ioos:station:wmo:nabm4|46.087|-85.443
+nfbf1|NFB - Northwest Florida Bay, FL|urn:ioos:station:wmo:nfbf1|25.084|-81.096
+nglt2|8775283 - Port Ingleside, TX|urn:ioos:station:wmo:nglt2|27.822|-97.203
+npdw3|Northport Pier at Death's Door WI|urn:ioos:station:wmo:npdw3|45.29|-86.978
+olcn6|Olcott Harbor, NY|urn:ioos:station:wmo:olcn6|43.341|-78.719
+pact2|8775792 - Packery Channel, TX|urn:ioos:station:wmo:pact2|27.633|-97.237
+pcgt2|8779748 - South Padre Island CGS, TX |urn:ioos:station:wmo:pcgt2|26.077|-97.177
+pclm4|Portage Canal, MI|urn:ioos:station:wmo:pclm4|47.276|-88.528
+pcnt2|8773701 - Matagorda Bay; Port O'Connor, TX|urn:ioos:station:wmo:pcnt2|28.452|-96.388
+pila2|Pilot Rock, AK|urn:ioos:station:wmo:pila2|59.742|-149.47
+pilm4|Passage Island, MI|urn:ioos:station:wmo:pilm4|48.223|-88.367
+plsp4|9758053 - Penuelas, PR|urn:ioos:station:wmo:plsp4|17.973|-66.762
+pngw3|Port Wing, WI|urn:ioos:station:wmo:pngw3|46.792|-91.386
+port2|8770475 - Port Arthur, TX|urn:ioos:station:wmo:port2|29.867|-93.93
+pota2|Potato Point, AK|urn:ioos:station:wmo:pota2|61.06|-146.7
+ppta1|Perdido Key, AL|urn:ioos:station:wmo:ppta1|30.279|-87.556
+prim4|Presque Isle Light, MI|urn:ioos:station:wmo:prim4|45.356|-83.492
+prta2|Point Retreat, AK|urn:ioos:station:wmo:prta2|58.412|-134.953
+pscm4|Port Sanilac, MI|urn:ioos:station:wmo:pscm4|43.423|-82.536
+ptac1|Point Arena, CA|urn:ioos:station:wmo:ptac1|38.955|-123.74
+ptat2|Port Aransas, TX|urn:ioos:station:wmo:ptat2|27.828|-97.05
+ptgc1|Point Arguello, CA|urn:ioos:station:wmo:ptgc1|34.577|-120.648
+pvgf1|Port Everglades Channel, FL|urn:ioos:station:wmo:pvgf1|26.092|-80.109
+pwaw3|Port Washington, WI|urn:ioos:station:wmo:pwaw3|43.388|-87.868
+rlot2|8770971 - Rollover Pass, TX|urn:ioos:station:wmo:rlot2|29.515|-94.513
+roam4|Rock of Ages, MI|urn:ioos:station:wmo:roam4|47.867|-89.313
+rprn6|Rochester, NY|urn:ioos:station:wmo:rprn6|43.258|-77.592
+rsjt2|8777812 - Rincon del San Jose; Potrero Lopeno SW, TX|urn:ioos:station:wmo:rsjt2|26.801|-97.483
+sacv4|Sacrifice Island, Mexico|urn:ioos:station:wmo:sacv4|19.174|-96.093
+sanf1|Sand Key, FL|urn:ioos:station:wmo:sanf1|24.46|-81.88
+sauf1|St. Augustine, FL|urn:ioos:station:wmo:sauf1|29.857|-81.265
+sbio1|South Bass Island, OH|urn:ioos:station:wmo:sbio1|41.628|-82.842
+sblm4|Saginaw Bay Light #1, MI|urn:ioos:station:wmo:sblm4|43.806|-83.719
+sdia2|South Douglas, AK|urn:ioos:station:wmo:sdia2|58.277|-134.389
+sdrt2|8773037 - Seadrift, TX|urn:ioos:station:wmo:sdrt2|28.407|-96.712
+sgnw3|Sheboygan, WI|urn:ioos:station:wmo:sgnw3|43.75|-87.692
+sgof1|Tyndall AFB Tower C (N4), FL|urn:ioos:station:wmo:sgof1|29.407|-84.863
+shpf1|SHP - Shell Point, FL|urn:ioos:station:wmo:shpf1|30.06|-84.291
+sisa2|Sisters Island, AK|urn:ioos:station:wmo:sisa2|58.171|-135.256
+sisw1|Smith Island, WA|urn:ioos:station:wmo:sisw1|48.318|-122.843
+sjom4|St. Joseph, MI|urn:ioos:station:wmo:sjom4|42.099|-86.494
+slvm5|Silver Bay, MN|urn:ioos:station:wmo:slvm5|47.269|-91.252
+smkf1|Sombrero Key, FL|urn:ioos:station:wmo:smkf1|24.627|-81.11
+spgf1|Settlement Point, GBI|urn:ioos:station:wmo:spgf1|26.704|-78.994
+spll1|South Timbalier Block 52, LA / CSI06|urn:ioos:station:wmo:spll1|28.867|-90.483
+sptm4|Sturgeon Point Light, MI|urn:ioos:station:wmo:sptm4|44.713|-83.273
+srbv3|Salt River Bay, St. Croix, U.S. Virgin Islands|urn:ioos:station:wmo:srbv3|17.784|-64.762
+srst2|Sabine Pass, TX|urn:ioos:station:wmo:srst2|29.67|-94.05
+stdm4|Stannard Rock, MI|urn:ioos:station:wmo:stdm4|47.183|-87.225
+svnm4|South Haven, MI|urn:ioos:station:wmo:svnm4|42.401|-86.289
+sxhw3|Saxon Harbor, WI|urn:ioos:station:wmo:sxhw3|46.563|-90.44
+syww3|Yacht Works Sister Bay WI|urn:ioos:station:wmo:syww3|45.202|-87.121
+tarf1|TAS - Tarpon Springs, FL|urn:ioos:station:wmo:tarf1|28.156|-82.758
+tawm4|Tawas City, MI|urn:ioos:station:wmo:tawm4|44.256|-83.443
+thlo1|Toledo Light No. 2 OH|urn:ioos:station:wmo:thlo1|41.826|-83.194
+tkea2|Tenakee Springs, AK|urn:ioos:station:wmo:tkea2|57.779|-135.219
+tplm2|Thomas Point, MD|urn:ioos:station:wmo:tplm2|38.898|-76.437
+ttiw1|Tatoosh Island, WA|urn:ioos:station:wmo:ttiw1|48.392|-124.735
+vcat2|8773259 - Port Lavaca, TX |urn:ioos:station:wmo:vcat2|28.64|-96.595
+venf1|Venice, FL|urn:ioos:station:wmo:venf1|27.07|-82.45
+verv4|Veracurz Harbor, Mexico|urn:ioos:station:wmo:verv4|19.202|-96.113
+vqsp4|9752619 - Isabel Segunda, Vieques, PR|urn:ioos:station:wmo:vqsp4|18.153|-65.444
+wats1|Lake Wateree, SC|urn:ioos:station:wmo:wats1|34.335|-80.702
+wfpm4|Whitefish Point, MI|urn:ioos:station:wmo:wfpm4|46.762|-84.966
+whri2|Waukegan Harbor, IL|urn:ioos:station:wmo:whri2|42.361|-87.813
+wpow1|West Point, WA|urn:ioos:station:wmo:wpow1|47.662|-122.436
+wrbf1|Whipray Basin, FL|urn:ioos:station:wmo:wrbf1|25.077|-80.728
+yabp4|9754228 - Yabucoa Harbor, PR|urn:ioos:station:wmo:yabp4|18.055|-65.833
+ygnn6|Niagara Coast Guard Station, NY|urn:ioos:station:wmo:ygnn6|43.261|-79.064
