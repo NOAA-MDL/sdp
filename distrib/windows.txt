@@ -1,0 +1,144 @@
+####
+# INTENDED TO CREATE THE WINDOWS DISTRIBUTION
+# Not to be given out.
+####
+ansFile=sloshdsp-all
+Zip_Also=false
+
+DoGeneric=yes
+DoSrc=yes
+DoDev=yes
+DoGUI=yes
+DoExe=yes
+
+#
+#------- Shouldn't have to modify beyond here --------
+# Except perhaps "UpdatePages"
+#-----------
+#
+# Src is C source code
+# Generic is general data.
+# Gui is Tcl source code
+# Exe is binary executables.
+
+Class_A=Generic
+Class_S=Src
+Class_D=Dev
+Class_G=GUI
+Class_E=Exe
+
+#StartDir=e:/svn/slosh/
+#DestDir=e:/svn/slosh/sloshdsp/distrib
+#WebDir=e:/svn/slosh/sloshdsp.web/
+#Version=[FindVersion e:/svn/slosh/sloshdsp]
+
+# Basin Specific data
+A:sloshdsp/bnt/*.dta
+A:sloshdsp/bnt/sloshdsp.bnt
+A:sloshdsp/etc/sloshdsp.otl
+A:sloshdsp/etc/sloshdsp.win
+# Don't send out sloshrex.ind, causing user's machine to create a fresh one
+# A:sloshdsp/etc/sloshrex.ind
+# A:sloshdsp/etc/colors.pal
+A:sloshdsp/etc/continuous.leg
+A:sloshdsp/etc/discrete.leg
+A:sloshdsp/etc/exceed.leg
+#A:sloshdsp/etc/noaa_google.gif
+#A:sloshdsp/etc/nws_google.gif
+
+# DD3 files (Basin Specific)
+A:sloshdsp/dd3.kit
+
+# Create some place holder directories.
+A:sloshdsp/data/readme.txt
+A:sloshdsp/output/readme.txt
+A:sloshdsp/rexfiles/readme.txt
+
+# Provide Disclaimer.txt
+A:sloshdsp/DISCLAIMER.txt
+
+# Provide Default settings
+A:sloshdsp/profiles/default.ini
+
+# GeoData
+# A:sloshdsp/geodata/mdl_ettgp.*
+A:sloshdsp/geodata/*.mrt
+# A:sloshdsp/geodata/buoy.txt
+A:sloshdsp/geodata/label.txt
+
+# Shpfiles
+A:sloshdsp/shpfiles/roads_highway.dbf
+A:sloshdsp/shpfiles/roads_highway.shx
+A:sloshdsp/shpfiles/roads_highway.shp
+A:sloshdsp/shpfiles/roads_limitedaccess.dbf
+A:sloshdsp/shpfiles/roads_limitedaccess.shx
+A:sloshdsp/shpfiles/roads_limitedaccess.shp
+A:sloshdsp/shpfiles/roads_other.dbf
+A:sloshdsp/shpfiles/roads_other.shx
+A:sloshdsp/shpfiles/roads_other.shp
+A:sloshdsp/shpfiles/lakes.dbf
+A:sloshdsp/shpfiles/lakes.shx
+A:sloshdsp/shpfiles/lakes.shp
+A:sloshdsp/shpfiles/rivers.dbf
+A:sloshdsp/shpfiles/rivers.shx
+A:sloshdsp/shpfiles/rivers.shp
+A:sloshdsp/shpfiles/urbanareas.dbf
+A:sloshdsp/shpfiles/urbanareas.shx
+A:sloshdsp/shpfiles/urbanareas.shp
+
+# Tide data
+# A:sloshdsp/tidedata/ft03.dta
+# A:sloshdsp/tidedata/usasta.new
+# A:sloshdsp/tidedata/ft07.dta
+# A:sloshdsp/tidedata/ft08.dta
+# A:sloshdsp/tidedata/station2.tbl
+# A:sloshdsp/tidedata/timezones.bnt
+
+# Source code commented out since we are simply releaing the binary built
+# in both windows and linux
+# halo lib source
+#S:sloshdsp/src/halo/*.c
+#S:sloshdsp/src/halo/*.h
+#S:sloshdsp/src/halo/*.ico
+#S:sloshdsp/src/halo/pkgIndex*.tcl
+#S:sloshdsp/src/halo/readme.txt
+#S:sloshdsp/src/halo/halo.rc
+#S:sloshdsp/src/halo/Makefile*
+#S:sloshdsp/src/halo/makefile*
+#S:sloshdsp/config.tcl
+
+# Source code commented out since we are simply releaing the binary built
+# in both windows and linux
+# graph lib source
+#S:sloshdsp/src/graph/*.c
+#S:sloshdsp/src/graph/*.h
+#S:sloshdsp/src/graph/pkgIndex*.tcl
+#S:sloshdsp/src/graph/makefile*
+
+# tclsrc
+G:sloshdsp/*.ini
+E:sloshdsp/sloshdsp.bat
+# E:sloshdsp/sloshdsp.sh
+# E:sloshdsp/tide.bat
+# E:sloshdsp/tide.sh
+# E:sloshdsp/track.bat
+# E:sloshdsp/track.sh
+# E:sloshdsp/dataconf.bat
+
+# Bin
+#E:sloshdsp/bin/gswin32c.exe
+E:sloshdsp/bin/tclkit854.exe
+E:sloshdsp/bin/curl.exe
+# E:sloshdsp/bin/tclkit854-linux32
+E:sloshdsp/bin/sloshdsp.ico
+#E:sloshdsp/bin/track.ico
+#E:sloshdsp/bin/tide.ico
+#E:sloshdsp/bin/data.ico
+E:sloshdsp/bin/pkgIndex.tcl
+# E:sloshdsp/bin/libhalo8.4.so
+E:sloshdsp/bin/libhalo85.dll
+
+A:sloshdsp/sloshdsp.kit
+
+A:sloshdsp/nosstat.txt
+A:sloshdsp/ndbcstat.txt

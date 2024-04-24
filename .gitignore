@@ -1,0 +1,33 @@
+# To apply to svn, type: 'svn propset svn:ignore -F .gitignore .'
+# ... the caveat is you'd need a .gitignore in each subfolder
+#
+# Ignore dd3.kit file
+dd3.kit
+#
+# Ignore rexfiles
+etc/sloshrex.ind
+rexfiles/download
+#
+# Ignore temporary sloshdsp.ini file
+sloshdsp.ini
+#
+# Ignore expanded sloshdsp.kit folder (if it exists)
+sloshdsp.vfs
+#
+# Ignore package provided shp-files
+shpfiles/lakes.dbf
+shpfiles/lakes.sh[xp]
+shpfiles/rivers.dbf
+shpfiles/rivers.sh[xp]
+shpfiles/roads_highway.dbf
+shpfiles/roads_highway.sh[xp]
+shpfiles/roads_limitedaccess.dbf
+shpfiles/roads_limitedaccess.sh[xp]
+shpfiles/roads_other.dbf
+shpfiles/roads_other.sh[xp]
+shpfiles/urbanareas.dbf
+shpfiles/urbanareas.sh[xp]
+#
+# Ignore temp files created during distribution process
+distrib/sloshdsp-install.exe
+distrib/sloshdsp.nsi
