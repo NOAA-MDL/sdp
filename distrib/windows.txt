@@ -128,7 +128,7 @@ E:sloshdsp/sloshdsp.bat
 # Bin
 #E:sloshdsp/bin/gswin32c.exe
 E:sloshdsp/bin/tclkit854.exe
-E:sloshdsp/bin/curl.exe
+# E:sloshdsp/bin/curl.exe
 # E:sloshdsp/bin/tclkit854-linux32
 E:sloshdsp/bin/sloshdsp.ico
 #E:sloshdsp/bin/track.ico
