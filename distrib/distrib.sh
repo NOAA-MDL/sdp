@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #-------------------------------------------------------------------------------
-# distrib.sh                                             Last Change: 2024-04-24
+# distrib.sh                                             Last Change: 2025-03-17
 #                                                         Arthur.Taylor@noaa.gov
 #                                                               NWS/OSTI/MDL/DSD
 #-------------------------------------------------------------------------------
@@ -33,13 +33,14 @@ ans=$($execDir/tclkit854 $rootDir/sloshdsp.kit -V | grep Date | grep -v Revision
 Date=${ans:5}
 
 #slosh_nsi.tcl $Ver $Date >@ stdout 2>@ stderr
-slosh_nsi.tcl $Ver $Date
+../bin/tclkitsh854 slosh_nsi.tcl $Ver $Date
 
 #catch {exec /cygdrive/d/Users/Arthur.Taylor/Programs/NSIS/makensis sloshdsp.nsi} ans
 #catch {exec /cygdrive/c/arthur/myPrograms/nsis/makensis sloshdsp.nsi} ans
 #catch {exec /cygdrive/c/sys/Portable/PortableApps/NSISPortableANSI/app/NSIS/makensis sloshdsp.nsi} ans
 #/mingw32/bin/makensis sloshdsp.nsi
-/c/sys/Portable/PortableApps/NSISPortable/App/NSIS/makensis sloshdsp.nsi
+#/c/sys/Portable/PortableApps/NSISPortable/App/NSIS/makensis sloshdsp.nsi
+/c/arthur2/sys/Portable/PortableApps/NSISPortable/App/NSIS/makensis sloshdsp.nsi
 
 #echo "Now 'scp sloshdsp-install.exe svn@slosh.nws.noaa.gov:/www/html/sloshPriv/download'"
 #echo "Now 'scp sloshdsp-all.tar.gz svn@slosh.nws.noaa.gov:/www/html/sloshPriv/download'"
