@@ -137,9 +137,9 @@
  :e:ext:---:East Coast E.T. v1:-1:0
  :e:ex2:---:East Coast E.T. v2:0 169 0 239:9999
 +:p:exm:---:East Coast E.T. v3:-1:9999
- :e:gll:---:Gulf of Mexico E.T. v2:-1:0
- :e:gm3:---:Gulf of Mexico E.T. v4:-1:9999
-+:e:glc:---:Gulf of Mexico E.T. v5:-1:9999
+ :e:gll:---:Gulf of America E.T. v2:-1:0
+ :e:gm3:---:Gulf of America E.T. v4:-1:9999
++:e:glc:---:Gulf of America E.T. v5:-1:9999
  :e:wct:---:West Coast E.T. v1:-1:0
  :e:wc2:---:West Coast E.T. v2:-1:0
 +:p:nep:---:West Coast E.T. v3:-1:9999
