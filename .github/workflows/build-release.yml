@@ -1,0 +1,44 @@
+name: Build and Release SDP Installer
+
+# This pipeline triggers automatically whenever you push a new tag to VLab
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - '*' # Triggers on any tag push (e.g., 1.82, v1.82)
+
+jobs:
+  build-installer:
+    name: Build NSIS Installer
+    runs-on: windows-latest
+
+    # Force the runner to use Git Bash to support your distrib.sh script
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: Install NSIS
+        # Chocolatey is pre-installed on GitHub Windows runners
+        run: choco install nsis -y
+
+      - name: Build Installer
+        # Navigates to your distrib folder and runs your orchestrator
+        run: |
+          cd distrib
+          chmod +x distrib.sh
+          ./distrib.sh go
+
+      - name: Create GitHub Release & Attach Installer
+        uses: softprops/action-gh-release@v2
+        with:
+          # Automatically attaches the compiled .exe to the new Release
+          files: sdp/distrib/sloshdsp-install.exe
+          generate_release_notes: true
+        env:
+          # This token is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
