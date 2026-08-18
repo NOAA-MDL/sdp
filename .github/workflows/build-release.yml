@@ -22,6 +22,16 @@ jobs:
       - name: Checkout Source Code
         uses: actions/checkout@v4
 
+      - name: Download dd3.kit asset
+        run: |
+          curl -L -o dd3.kit https://github.com/NOAA-MDL/sdp/releases/download/assets/dd3.kit
+
+      - name: Download shpfile assets
+        run: |
+          curl -L -o shpfiles.zip https://github.com/NOAA-MDL/sdp/releases/download/assets/shpfiles.zip
+          unzip shpfiles.zip
+          rm shpfiles.zip
+
       - name: Install NSIS
         # Chocolatey is pre-installed on GitHub Windows runners
         run: choco install nsis -y
@@ -34,6 +44,7 @@ jobs:
           ./distrib.sh go
 
       - name: Create GitHub Release & Attach Installer
+        if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
         with:
           # Automatically attaches the compiled .exe to the new Release
