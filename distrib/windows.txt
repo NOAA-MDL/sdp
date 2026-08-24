@@ -57,6 +57,10 @@ A:sloshdsp/rexfiles/readme.txt
 # Provide Disclaimer.md
 A:sloshdsp/DISCLAIMER.md
 
+# Provide documentation
+A:sloshdsp/README.md
+A:sloshdsp/docs/history.md
+
 # Provide Default settings
 A:sloshdsp/profiles/default.ini
 

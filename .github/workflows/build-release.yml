@@ -22,6 +22,9 @@ jobs:
         shell: bash
 
     steps:
+      - name: Force Git to keep LF line endings
+        run: git config --global core.autocrlf false
+
       - name: Checkout Source Code
         uses: actions/checkout@v4
 

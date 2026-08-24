@@ -19,7 +19,7 @@ maximum level each grid cell attained during the run.
 ### INSTALLATION & USAGE
 
 1. Navigate to the **Releases** page on this GitHub repository.
-2. Download the latest `sloshdsp-install.exe` file.
+2. [Download the latest sloshdsp-install.exe](https://://github.com/NOAA-MDL/sdp/releases/latest/download/sloshdsp-install.exe)
 3. Run the installer on your Windows machine.
 4. Launch the SDP.
 5. Download one or more Rexfile(s)

@@ -8,6 +8,12 @@
 !define prjVer "PRJVER"
 !define prjName "sloshdsp"
 
+; --- ADD YOUR METADATA HERE ---
+VIProductVersion "${prjVer}.0.0"
+VIAddVersionKey "CompanyName" "NWS/OMD/Marine and Decision Support Division"
+VIAddVersionKey "LegalCopyright" "US Government"
+VIAddVersionKey "FileDescription" "SLOSH Display Program Installer"
+
 Var shortDir
 Var Dialog
 Var Checkbox
@@ -132,7 +138,7 @@ RequestExecutionLevel user
 ;   !define MUI_WELCOMEPAGE_TITLE_3LINES
 ; Text to display on the page.
   !define MUI_WELCOMEPAGE_TEXT "This wizard will guide you through the installation of the SLOSH Display ${prjVer}$\n$\n\
-      SLOSH Display ${prjVer} was created on ${prjDate}, by the$\n   Meteorological Development Laboratory$\n   \
+      SLOSH Display ${prjVer} was created on ${prjDate}, by the$\n   Office of Modeling and Development$\n   \
       National Weather Service$\n   National Oceanic and Atmospheric Administration$\n   United States' Department of Commerce$\n$\n\
       It is recommended that you close all other applications$\n\
       before starting Setup.  This will make it possible to update$\n\
