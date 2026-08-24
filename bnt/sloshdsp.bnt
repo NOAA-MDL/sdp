@@ -7,37 +7,39 @@
  :p:nyc:nyc:New York v1:0 74 0 73:0
  :p:ny2:ny2:New York v2:0 75 0 82:0
 +:p:ny3:ny3:New York v3:-1:9999
- :p:ne1:---:North East:-1:9999
++:p:ne1:---:North East:-1:9999
  :p:de2:de2:Delaware Bay v2:0 60 6 60:0
 +:p:de3:de3:Delaware Bay v3:-1:9999
++:p:de4:---:Delaware Bay v4:-1:9999
  :p:acy:acy:Atlantic City:0 58 22 105:0
  :p:oce:oce:Ocean City:0 44 3 86:0
  :p:chp:chp:Chesapeake Bay v1:-1:0
  :p:cp2:cp2:Chesapeake Bay v2:0 59 0 83:0
 +:p:cp5:cp5:Chesapeake Bay v4:-1:9999
++:p:cp6:---:Chesapeake Bay v5:-1:9999
  :e:orf:orf:Norfolk:0 81 0 47:0
 +:h:or3:or3:Norfolk v3:-1:9999
  :p:hat:hat:Pamlico Sound v1:-1:0
  :e:hat:eht:Pamlico Sound v2:34 160 0 90:0
  :e:ht2:ht2:Pamlico Sound v3:34 160 0 90:9999
 +:p:ht3:ht3:Pamlico Sound v4:-1:9999
- :p:nc1:---:North Carolina:-1:9999
++:p:nc1:---:North Carolina:-1:9999
  :p:ilm:ilm:Wilmington/Myrtle Beach v1:0 58 7 114:0
  :p:il2:il2:Wilmington/Myrtle Beach v2:-1:9999
 +:p:il3:il3:Wilmington/Myrtle Beach v3:-1:9999
  :p:chs:chs:Charleston Harbor v1:-1:0
  :h:chs:che:Charleston Harbor v2:0 81 0 149:0
 +:h:ch2:ch2:Charleston Harbor v3:-1:9999
- :p:ch3:---:Charleston Harbor v4:-1:9999
++:p:ch3:---:Charleston Harbor v4:-1:9999
  :p:sav:sav:Savannah/Hilton Head v1:-1:0
  :p:svn:svn:Savannah/Hilton Head v2:5 74 0 94:0
  :e:sv3:sv3:Savannah/Hilton Head v3:-1:9999
 +:e:sv4:sv4:Savannah/Hilton Head v4:-1:9999
  :p:ssi:ssi:Brunswick:0 58 0 87:0
++:p:nf1:---:North Florida:-1:9999
  :e:jax:jax:Jacksonville v1:0 60 0 95:0
  :e:jx2:jx2:Jacksonville v2:-1:0
 +:e:jx3:jx3:Jacksonville v3:-1:9999
- :p:nf1:---:North Florida:-1:9999
  :p:cof:cof:Cape Canaveral v1:0 60 0 88:0
 +:p:co2:co2:Cape Canaveral v2:0 60 0 88:9999
  :p:pbi:pbi:Palm Beach v1:0 45 25 145:0
@@ -93,6 +95,7 @@
  :p:bpt:bpt:Sabine Lake v1:-1:0
  :e:bpt:ebp:Sabine Lake v2:0 82 0 116:0
 +:e:bp3:eb3:Sabine Lake v5:-1:9999
++:p:tx3:---:Texas:-1:9999
  :p:gls:gls:Galveston Bay v1:-1:0
  :e:gls:gle:Galveston Bay v2:0 81 0 99:0
  :e:gl2:gl2:Galveston Bay v3:0 75 0 99:0
@@ -105,30 +108,37 @@
  :p:bro:bro:Laguna Madre v1:-1:0
  :p:br2:br2:Laguna Madre v2:0 64 59 107:0
 +:e:br3:br3:Laguna Madre v3:0 205 165 361:9999
-+:p:tx3:---:Texas:-1:9999
-+:p:bha:bha:BHS (Bahamas):8 89 0 99:0
- :h:jam:jam:JAM (Jamaica) v1:-1:0
-+:h:sju:sju:Puerto Rico v2:0 27 0 176:0
- :h:sj2:sj2:Puerto Rico v3:-1:0
+ :p:bha:bha:BHS (Bahamas):8 89 0 99:0
++:h:jam:jam:JAM (Jamaica) v1:-1:0
+ :h:sju:sju:Puerto Rico v2:0 27 0 176:0
++:h:sj2:sj2:Puerto Rico v3:-1:0
 +:h:sj5:sj5:Puerto Rico v6:-1:0
++:h:sj3:---:Puerto Rico v7:-1:0
  :e:vir:vir:Virgin Islands v1:17 75 21 108:0
 +:e:vi2:vi2:Virgin Islands v2:-1:0
 +:p:vi8:---:Virgin Islands v3:-1:0
  :e:vi4:---:Virgin Islands v4:-1:0
  :p:haw:---:Hawaii v1:-1:0
 +:h:hw4:---:Hawaii (2014) v3:-1:0
++:h:hw5:---:Hawaii (2024):-1:0
  :p:mau:---:Maui v1:-1:0
 +:h:ma3:---:Maui (2014) v3:-1:0
++:h:ma5:---:Maui (2024):-1:0
  :p:hnl:hnl:Oahu v1:0 30 0 146:0
  :p:hn2:---:Oahu v2:0 30 0 146:0
 +:h:hn4:---:Oahu (2014) v4:-1:0
++:h:hn5:---:Oahu (2024):-1:0
  :h:kwa:kwa:Kauai v1:-1:0
  :h:kw2:---:Kauai v2:-1:0
 +:h:kw4:---:Kauai (2014) v4:-1:0
++:h:kw5:---:Kauai (2024):-1:0
  :h:gum:---:Guam:-1:0
++:h:gu4:---:Guam (2019):-1:0
++:h:gu5:---:Guam (2025):-1:0
++:h:as1:---:American Samoa:-1:0
  :p:scp:---:Southern CA v1:-1:9999
- :h:sfo:---:San Francisco CA v1:-1:9999
- :h:sea:---:Seattle WA v1:-1:9999
++:h:sfo:---:San Francisco CA v1:-1:9999
++:h:sea:---:Seattle WA v1:-1:9999
 +:h:akn:---:King Salmon Alaska E.T.:-1:9999
 +:h:ome:---:Nome Alaska E.T.:-1:9999
 +:h:otz:---:Kotzebue Alaska E.T.:-1:9999

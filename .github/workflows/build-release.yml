@@ -6,14 +6,17 @@ on:
     branches:
       - main
     tags:
-      - '*' # Triggers on any tag push (e.g., 1.82, v1.82)
+      - 'v*' # Best practice: only trigger on tags that start with 'v'
+
+# Explicitly grant permission to create releases
+permissions:
+  contents: write
 
 jobs:
   build-installer:
     name: Build NSIS Installer
     runs-on: windows-latest
 
-    # Force the runner to use Git Bash to support your distrib.sh script
     defaults:
       run:
         shell: bash
@@ -33,13 +36,12 @@ jobs:
           rm shpfiles.zip
 
       - name: Install NSIS
-        # Chocolatey is pre-installed on GitHub Windows runners
         run: choco install nsis -y
 
       - name: Build Installer
-        # Navigates to your distrib folder and runs your orchestrator
         run: |
           cd distrib
+          ls -la
           chmod +x distrib.sh
           ./distrib.sh go
 
@@ -47,8 +49,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
         with:
-          # Automatically attaches the compiled .exe to the new Release
-          files: sdp/distrib/sloshdsp-install.exe
+          files: distrib/sloshdsp-install.exe
           generate_release_notes: true
         env:
           # This token is automatically provided by GitHub Actions

@@ -54,8 +54,8 @@ A:sloshdsp/data/readme.txt
 A:sloshdsp/output/readme.txt
 A:sloshdsp/rexfiles/readme.txt
 
-# Provide Disclaimer.txt
-A:sloshdsp/DISCLAIMER.txt
+# Provide Disclaimer.md
+A:sloshdsp/DISCLAIMER.md
 
 # Provide Default settings
 A:sloshdsp/profiles/default.ini

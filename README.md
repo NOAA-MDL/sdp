@@ -1,4 +1,4 @@
-**README.md**                                            Last Change: 2026-08-18
+**README.md**`                                          Last Change: 2026-08-24`
 
 ### WHAT IS THE SDP?
 The SLOSH Display Program (SDP) is a visualization tool developed by the NWS
@@ -23,12 +23,12 @@ maximum level each grid cell attained during the run.
 3. Run the installer on your Windows machine.
 4. Launch the SDP.
 5. Download one or more Rexfile(s)
-  * Go to the **Animate** menu and select **Download Rexfiles**.
-  * Press **Continue** to download the Rexfile catalog.
-  * Highlight one or more desired Rexfile(s) and press **Install**.
+   * Go to the **Animate** menu and select **Download Rexfiles**.
+   * Press **Continue** to download the Rexfile catalog.
+   * Highlight one or more desired Rexfile(s) and press **Install**.
 6. Animate a Rexfile
-  * Go to the **Animate** menu and select **Animate .rex file**.
-  * Select one of the installed Rexfiles and press **Start**.
+   * Go to the **Animate** menu and select **Animate .rex file**.
+   * Select one of the installed Rexfiles and press **Start**.
 
 ### PROJECT HISTORY & LEGACY DATA
 For over 25 years (1990's to 2020's), the SDP was also used to display Maximum

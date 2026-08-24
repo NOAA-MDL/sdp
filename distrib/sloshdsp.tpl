@@ -141,7 +141,7 @@ RequestExecutionLevel user
       Click Next to continue."
 
   !insertmacro MUI_PAGE_WELCOME
-  !insertmacro MUI_PAGE_LICENSE "..\DISCLAIMER.txt"
+  !insertmacro MUI_PAGE_LICENSE "..\DISCLAIMER.md"
 ;  !insertmacro MUI_PAGE_COMPONENTS
   !insertmacro MUI_PAGE_DIRECTORY
   Page custom StartMenuGroupSelect "" ": Start Menu Folder"

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #-------------------------------------------------------------------------------
-# @file         distrib.sh                               Last Change: 2026-08-12
+# @file         distrib.sh                               Last Change: 2026-08-24
 # @author       Arthur.Taylor (NWS/OMD/MDSD)
 # @description  Packages the SLOSH Display Program by calling slosh_nsi.tcl.
 #-------------------------------------------------------------------------------
@@ -126,7 +126,8 @@ main() {
   if [[ -f "${tclkitsh}" ]]; then
     "${tclkitsh}" "slosh_nsi.tcl" "${version}" "${dateStr}"
   else
-    "${tclkit}" "slosh_nsi.tcl" "${version}" "${dateStr}"
+    echo "Error: Need tclkitsh to run it non-interactively." >&2; exit 1
+    # "${tclkit}" "slosh_nsi.tcl" "${version}" "${dateStr}"
   fi
 
   # --- Call makensis ---
