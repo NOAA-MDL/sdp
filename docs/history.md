@@ -1,4 +1,8 @@
-**docs/history.md**`                                    Last Change: 2026-08-24`
+---
+layout: default
+title: SDP - History
+---
+<!-- docs/history.md                                 Last Change: 2026-08-26 -->
 
 ### INTRODUCTION TO POTENTIAL HURRICANE FLOODING
 "Although [the Sea Lake and Overland Surges from Hurricane] SLOSH [model]
@@ -7,7 +11,7 @@ to delineate areas of **potential hurricane flooding** along the coast. With
 this information, an evacuation planner can identify **areas for evacuation**,
 determine which highways can be used for **evacuation routes**, and **site
 shelters** in areas not flooded or cut off by a hurricane."
-[Jelesnianski, et. al., 1984](https://slosh.nws.noaa.gov/docs/data/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf)
+[Jelesnianski, et. al., 1984](/docs/refs/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf)
 
 ### WHAT ARE MEOWs AND MOMs?
 To estimate potential flooding, as part of the National Hurricane Program, the
@@ -25,17 +29,17 @@ The MEOW "lumps together a family of parallel track storms, all of the same
 category, tide level, direction of motion, and speed along the tracks. At each
 SLOSH grid square, the highest value of surge from the family of storms is
 displayed..."
-[Shaffer, et al., 1986](https://slosh.nws.noaa.gov/docs/data/ShafferJelesnianskiChen1986HurricaneStorm.pdf).
+[Shaffer, et al., 1986](/docs/refs/ShafferJelesnianskiChen1986HurricaneStorm.pdf).
 "This product, then, displays the potential flooding for a hurricane of a given
 **category**, **tide level**, and general track **direction** and **speed**."
-[Glahn et al, 2009](https://slosh.nws.noaa.gov/docs/data/Vol-33-Nu1-Glahn.pdf)
+[Glahn et al., 2009](/docs/refs/Vol-33-Nu1-Glahn.pdf)
 
 **Maximum of the MEOWs (MOM)**
 "A MOM is a composite of the maximum storm surge heights for all simulated
 hurricanes of a given category... Thus, the MOM depicts the potential flooding
 for a given hurricane category and tide level, regardless of landfall approach
 direction and speed."
-[Glahn et al, 2009](https://slosh.nws.noaa.gov/docs/data/Vol-33-Nu1-Glahn.pdf).
+[Glahn et al., 2009](/docs/refs/Vol-33-Nu1-Glahn.pdf).
 
 ### SDP's ORIGINAL PURPOSE
 Because Geographical Information Systems (GIS) were not readily available in the
@@ -49,5 +53,5 @@ and MOM viewer. In 2026, the MEOW and MOM products (last updated in the SDP in
 2016) were discontinued from the software, and the project migrated to GitHub to
 focus purely on model development and historical animations.
 
---------------------------------------------------------------------------------
-> vim:norl:fdm=marker:fmr=[fd],[/fd]:spell!
+<!----------------------------------------------------------------------------->
+<!-- vim: set norl fdm=marker fmr=[fd],[/fd] spell! -->
