@@ -2,9 +2,9 @@
 layout: default
 title: Storm Surge - Basics
 ---
-<!-- docs/storm-surge-basics.md                      Last Change: 2026-08-26 -->
+<!-- docs/storm-surge-basics.md                      Last Change: 2026-09-01 -->
 
-### STORM SURGE VS. STORM TIDE
+### Storm Surge vs. Storm Tide
 * **Storm Surge:** Water that is pushed toward the shore by the force of winds
   swirling around a storm.
 * **Storm Tide:** The combination of the normal tide and the storm surge to
@@ -12,7 +12,7 @@ title: Storm Surge - Basics
   when a hurricane makes landfall can have a major impact on the total water
   surface elevation.
 
-### HOW THE SLOSH MODEL WORKS
+### How the SLOSH Model Works
 Given a specific geographic region (a SLOSH Basin), the model takes a
 hypothetical or historical hurricane track and calculates the resulting storm
 surge.
@@ -24,7 +24,7 @@ surge.
 * Radius of Maximum Winds.
 * Basin Topography and Bathymetry (water depth relative to mean sea level).
 
-#### Model Accuracy & Limitations:
+#### Model Accuracy and Limitations:
 * Accuracy is generally within +/- 20% of the peak storm surge for a known
   hurricane track, intensity, and size.
 * The model accounts for astronomical tides by either (a) specifying the initial
@@ -33,7 +33,7 @@ surge.
 * The model **does not** include rainfall amounts, river flow, or wind-driven
   waves.
 
-### STORM SURGE GENERALIZATIONS
+### Storm Surge Generalizations
 When observing storm surge animations, several meteorological generalizations
 apply:
 1. More intense storms cause higher surges.
@@ -48,7 +48,7 @@ apply:
    while areas with steep coastal slopes experience less surge but large
    breaking waves.
 
-### INTERPRETING REXFILES & WIND DATA
+### Interpreting Rexfiles and Wind Data
 A Rexfile contains SLOSH-generated water level heights at each grid cell and
 hurricane wind parameters for specific time intervals. When animating a Rexfile
 in the SDP, wind speeds and directions are displayed using standard

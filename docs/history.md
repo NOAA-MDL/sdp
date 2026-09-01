@@ -2,9 +2,9 @@
 layout: default
 title: SDP - History
 ---
-<!-- docs/history.md                                 Last Change: 2026-08-26 -->
+<!-- docs/history.md                                 Last Change: 2026-09-01 -->
 
-### INTRODUCTION TO POTENTIAL HURRICANE FLOODING
+### Introduction to Potential Hurricane Flooding
 "Although [the Sea Lake and Overland Surges from Hurricane] SLOSH [model]
 originated as a forecast model, it has recently [as of 1984] been used as a tool
 to delineate areas of **potential hurricane flooding** along the coast. With
@@ -13,7 +13,7 @@ determine which highways can be used for **evacuation routes**, and **site
 shelters** in areas not flooded or cut off by a hurricane."
 [Jelesnianski, et. al., 1984](/docs/refs/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf)
 
-### WHAT ARE MEOWs AND MOMs?
+### What are MEOWs and MOMs?
 To estimate potential flooding, as part of the National Hurricane Program, the
 SLOSH model is used by the NWS to compute storm surge impacts from thousands of
 hypothetical hurricanes in various computational domains (aka basins). Each
@@ -41,7 +41,7 @@ for a given hurricane category and tide level, regardless of landfall approach
 direction and speed."
 [Glahn et al., 2009](/docs/refs/Vol-33-Nu1-Glahn.pdf).
 
-### SDP's ORIGINAL PURPOSE
+### SDP's Original Purpose
 Because Geographical Information Systems (GIS) were not readily available in the
 1980s and early 1990s, NWS's Meteorological Development Lab created the SLOSH
 Display Program (SDP) as a free GIS tool to display the MEOW and MOM products.
