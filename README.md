@@ -31,7 +31,7 @@ development assistance to external developers who choose to utilize or adapt
 this code.
 
 ### Installation and Usage
-1. [Download the latest SLOSH Display Installer for Windows](https://github.com/NOAA-MDL/sdp/releases/latest/download/sloshdsp-install.exe) (`sloshdsp-install.exe`).
+1. <a href="https://slosh.nws.noaa.gov/sdp/download.php" rel="noreferrer">Download the latest SLOSH Display Installer for Windows</a> (`sloshdsp-install.exe`).
    > **Integrity Check:** To verify your download, you can compare the file
    > against the SHA-256 checksum automatically displayed next to the asset on
    > our [Latest Releases page](https://github.com/NOAA-MDL/sdp/releases/latest).

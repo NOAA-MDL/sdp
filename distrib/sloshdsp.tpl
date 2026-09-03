@@ -8,6 +8,9 @@
 !define prjVer "PRJVER"
 !define prjName "sloshdsp"
 
+; --- Bypass Defender False Positives ---
+SetCompressor /SOLID lzma
+
 ; --- ADD YOUR METADATA HERE ---
 VIProductVersion "${prjVer}.0.0"
 VIAddVersionKey "CompanyName" "NWS/OMD/Marine and Decision Support Division"
