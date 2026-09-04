@@ -3,8 +3,8 @@ name: Build and Release SDP Installer
 # This pipeline triggers automatically whenever you push a new tag to VLab
 on:
   push:
-    branches:
-      - main
+#    branches:
+#      - main
     tags:
       - 'v*' # Best practice: only trigger on tags that start with 'v'
 
