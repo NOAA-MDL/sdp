@@ -15,9 +15,6 @@ determine which highways can be used for **evacuation routes**, and **site
 shelters** in areas not flooded or cut off by a hurricane."
 <a href="./papers/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf" target="_blank" rel="noopener noreferrer">Jelesnianski, et al., 1984</a>
 
-<!----------------------------------------------------------------------------->
-## What are MEOWs and MOMs?
-
 To estimate potential flooding, as part of the National Hurricane Program, the
 SLOSH model is used by the NWS to compute storm surge impacts from thousands of
 hypothetical hurricanes in various computational domains (aka basins). Each
