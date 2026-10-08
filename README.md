@@ -36,7 +36,7 @@ final frame showing the maximum level each grid cell attained during the run.
 <!----------------------------------------------------------------------------->
 ## Installation and Usage
 
-1. <a href="https://slosh.nws.noaa.gov/sdp/download.php" target="_blank" rel="noopener noreferrer">Download the latest SLOSH Display Installer for Windows</a> (`sloshdsp-install.exe`).
+1. <a href="https://slosh.nws.noaa.gov/sdp/download.php" rel="noopener noreferrer">Download the latest SLOSH Display Installer for Windows</a> (`sloshdsp-install.exe`).
    > **Integrity Check:** To verify your download, you can compare the file
    > against the SHA-256 checksum automatically displayed next to the asset on
    > our <a href="https://github.com/NOAA-MDL/sdp/releases/latest" target="_blank" rel="noopener noreferrer">Latest Releases page</a>.

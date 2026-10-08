@@ -6,7 +6,6 @@
 
   <!-- OMD Metadata -->
   <meta name="DC.creator" content="NWS/Office of Modeling and Development">
-  <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US">
   <meta name="rating" content="general">
   <meta name="resource-type" content="document">
   <meta name="distribution" content="global">
@@ -20,22 +19,22 @@
 
 <!-- NWS HEADER -->
 <div class="nwsHead">
-  <a href="https://www.noaa.gov" target="_blank"><img class="nwsHeadLf" src="{{ '/assets/images/noaa_logo.png' | relative_url }}" alt="NOAA Logo"></a>
-  <a href="https://www.weather.gov" target="_blank">
+  <a href="https://www.noaa.gov" target="_blank" rel="noopener noreferrer"><img class="nwsHeadLf" src="{{ '/assets/images/noaa_logo.png' | relative_url }}" alt="NOAA Logo"></a>
+  <a href="https://www.weather.gov" target="_blank" rel="noopener noreferrer">
     <img class="nwsHeadLf" src="{{ '/assets/images/nws_logo.png' | relative_url }}" style="height:58px;margin-top:2px" alt="NWS Logo">
   </a>
   <div class="nwsHeadMid">
     <!-- Jekyll will dynamically insert the page title here -->
     <span class="nwsHeadTitle">{{ page.title | default: "SLOSH DISPLAY PROGRAM" }}</span>
     <br>
-    <a class="nwsHeadNoaa" href="https://www.noaa.gov" target="_blank">N A T I O N A L
+    <a class="nwsHeadNoaa" href="https://www.noaa.gov" target="_blank" rel="noopener noreferrer">N A T I O N A L
       &nbsp;&nbsp;&nbsp;O C E A N I C
       &nbsp;&nbsp;&nbsp;A N D
       &nbsp;&nbsp;&nbsp;A T M O S P H E R I C
       &nbsp;&nbsp;&nbsp;A D M I N I S T R A T I O N
     </a>
   </div>
-  <a href="https://www.commerce.gov" target="_blank"><img class="nwsHeadRt" src="{{ '/assets/images/doc_logo.png' | relative_url }}" alt="DOC Logo"></a>
+  <a href="https://www.commerce.gov" target="_blank" rel="noopener noreferrer"><img class="nwsHeadRt" src="{{ '/assets/images/doc_logo.png' | relative_url }}" alt="DOC Logo"></a>
   <br>
 </div>
 
@@ -44,24 +43,23 @@
   <table width="100%"><tr width="100%" style="text-align:center">
     <td style="width:5px"></td>
     <td class="exLink">
-      <a class="exLink" href="https://vlab.noaa.gov/web/mdl/storm-surge" target="_blank">OMD Surge</a> |
-      <a class="exLink" href="https://www.nhc.noaa.gov/surge/" target="_blank">NHC Surge</a>
+      <a class="exLink" href="https://vlab.noaa.gov/web/mdl/storm-surge" target="_blank" rel="noopener noreferrer">OMD Surge</a> |
+      <a class="exLink" href="https://www.nhc.noaa.gov/surge/" target="_blank" rel="noopener noreferrer">NHC Surge</a>
     </td>
     <td style="width:100px"></td>
     <td class="exLink">
-<!--      <a class="exLink" href="{{ '/' | relative_url }}">Home</a> | -->
-      <a class="exLink" href="https://slosh.nws.noaa.gov/">Home</a> |
-      <a class="exLink" href="https://slosh.nws.noaa.gov/psurge">P-Surge</a> |
-      <a class="exLink" href="https://slosh.nws.noaa.gov/petss">P-ETSS</a> |
-      <a class="exLink" href="https://slosh.nws.noaa.gov/etsurge2.0">ETSS</a> |
-      <a class="exLink" href="https://slosh.nws.noaa.gov/etsurge">Orig. ETSS</a>
+      <a class="exLink" href="https://slosh.nws.noaa.gov/" target="_blank" rel="noopener noreferrer">Home</a> |
+      <a class="exLink" href="https://slosh.nws.noaa.gov/psurge" target="_blank" rel="noopener noreferrer">P-Surge</a> |
+      <a class="exLink" href="https://slosh.nws.noaa.gov/petss" target="_blank" rel="noopener noreferrer">P-ETSS</a> |
+      <a class="exLink" href="https://slosh.nws.noaa.gov/etsurge2.0" target="_blank" rel="noopener noreferrer">ETSS</a> |
+      <a class="exLink" href="https://slosh.nws.noaa.gov/etsurge" target="_blank" rel="noopener noreferrer">Orig. ETSS</a>
     </td>
     <td style="width:20px"></td>
     <td class="exLink">
-      <a class="exLink" href="https://water.noaa.gov/" target="_blank">NWPS</a> |
-      <a class="exLink" href="https://mag.ncep.noaa.gov/model-guidance-model-area.php" target="_blank">MAG</a> |
-      <a class="exLink" href="https://tidesandcurrents.noaa.gov/map/" target="_blank">CO-OPS</a> |
-      <a class="exLink" href="https://nowcoast.noaa.gov/" target="_blank">NowCoast</a>
+      <a class="exLink" href="https://water.noaa.gov/" target="_blank" rel="noopener noreferrer">NWPS</a> |
+      <a class="exLink" href="https://mag.ncep.noaa.gov/model-guidance-model-area.php" target="_blank" rel="noopener noreferrer">MAG</a> |
+      <a class="exLink" href="https://tidesandcurrents.noaa.gov/map/" target="_blank" rel="noopener noreferrer">CO-OPS</a> |
+      <a class="exLink" href="https://nowcoast.noaa.gov/" target="_blank" rel="noopener noreferrer">NowCoast</a>
     </td>
     <td style="width:5px"></td>
   </tr></table>
@@ -72,10 +70,15 @@
 <div class="nav-wrapper">
   <div class="site-nav">
     <hr class="nav-divider">
-    <nav class="nav-links">
-      <a href="{{ '/' | relative_url }}">SLOSH Display Program</a> |
-      <a href="{{ '/docs/storm-surge-basics.html' | relative_url }}">Storm Surge - Basics</a> |
-      <a href="{{ '/docs/history.html' | relative_url }}">SDP - History</a>
+    <nav class="nav-links" style="display: flex; justify-content: space-between;">
+      <span>
+        <a href="{{ '/' | relative_url }}">SDP</a> |
+        <a href="{{ '/docs/storm-surge-basics.html' | relative_url }}">Storm Surge Basics</a> |
+        <a href="{{ '/docs/history.html' | relative_url }}">SDP - History</a>
+      </span>
+      <span>
+        <a href="https://noaa-mdl.github.io/slosh/" target="_blank" rel="noopener noreferrer">SLOSH Model ↗</a>
+      </span>
     </nav>
     <hr class="nav-divider">
   </div>
@@ -91,33 +94,90 @@
   <div class="footSpacer"></div>
   <div class="footInfo">
     <div class="footCol">
-      <a href="https://www.usa.gov"><img src="{{ '/assets/images/usa_gov.png' | relative_url }}" alt="usa.gov" width="110" border="0" height="30"></a>
+      <a href="https://www.usa.gov" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/images/usa_gov.png' | relative_url }}" alt="usa.gov" width="110" border="0" height="30"></a>
     </div>
     <div class="footCol" style="left:60px;width:310px;">
-      <a href="https://www.commerce.gov">US Dept of Commerce</a><br>
-      <a href="https://www.noaa.gov">National Oceanic and Atmospheric Administration</a><br>
-      <a href="https://www.weather.gov" >National Weather Service</a><br>
-      <a href="https://vlab.noaa.gov/web/mdl">Office of Modeling and Development</a>
+      <a href="https://www.commerce.gov" target="_blank" rel="noopener noreferrer">US Dept of Commerce</a><br>
+      <a href="https://www.noaa.gov" target="_blank" rel="noopener noreferrer">National Oceanic and Atmospheric Administration</a><br>
+      <a href="https://www.weather.gov" target="_blank" rel="noopener noreferrer">National Weather Service</a><br>
+      <a href="https://vlab.noaa.gov/web/mdl" target="_blank" rel="noopener noreferrer">Office of Modeling and Development</a>
     </div>
     <div class="footCol" style="left:10px;">
       Contact us:<br>
-      <a href='mailto:Arthur.Taylor@noaa.gov'>Arthur Taylor</a><br>
+      <a href="mailto:Arthur.Taylor@noaa.gov">Arthur Taylor</a><br>
       1325 East West Highway<br>Silver Spring, MD 20910<br>
     </div>
     <div class="footCol" style="left:50px;">
-      <a href="https://www.weather.gov/disclaimer">Disclaimer</a><br>
-      <a href="https://www.cio.noaa.gov/services_programs/info_quality.html">Information Quality</a><br>
-      <a href="https://www.weather.gov/help">Help</a><br>
-      <a href="https://www.weather.gov/glossary">Glossary</a>
+      <a href="https://www.weather.gov/disclaimer" target="_blank" rel="noopener noreferrer">Disclaimer</a><br>
+      <a href="https://www.cio.noaa.gov/services_programs/info_quality.html" target="_blank" rel="noopener noreferrer">Information Quality</a><br>
+      <a href="https://www.weather.gov/help" target="_blank" rel="noopener noreferrer">Help</a><br>
+      <a href="https://www.weather.gov/glossary" target="_blank" rel="noopener noreferrer">Glossary</a>
     </div>
     <div class="footCol" style="left:100px;width:170px;">
-      <a href="https://www.weather.gov/privacy">Privacy Policy</a><br>
-      <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br>
-      <a href="https://www.weather.gov/about">About Us</a><br>
-      <a href="https://www.weather.gov/careers">Career Opportunities</a>
+      <a href="https://www.weather.gov/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a><br>
+      <a href="https://www.noaa.gov/foia-freedom-of-information-act" target="_blank" rel="noopener noreferrer">Freedom of Information Act (FOIA)</a><br>
+      <a href="https://www.weather.gov/about" target="_blank" rel="noopener noreferrer">About Us</a><br>
+      <a href="https://www.weather.gov/careers" target="_blank" rel="noopener noreferrer">Career Opportunities</a>
     </div>
   </div>
 </div>
+<script>
+  const copyIcon = '<svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="14" height="14" rx="2" ry="2"></rect><path d="M16 16v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2"></path></svg>';
+  const checkIcon = '<svg viewBox="0 0 24 24" width="14" height="14" stroke="#28a745" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>';
 
+  // 1. Setup copy buttons for code blocks
+  document.querySelectorAll('pre').forEach(function(codeBlock) {
+    var button = document.createElement('button');
+    button.className = 'copy-btn';
+    button.type = 'button';
+    button.setAttribute('data-tooltip', 'Copy code to clipboard');
+    button.innerHTML = copyIcon;
+
+    codeBlock.appendChild(button);
+
+    button.addEventListener('click', function() {
+      var textToCopy = codeBlock.querySelector('code').innerText.trim();
+      navigator.clipboard.writeText(textToCopy).then(function() {
+        button.innerHTML = checkIcon;
+        button.setAttribute('data-tooltip', 'Copied!');
+        setTimeout(function() {
+          button.innerHTML = copyIcon;
+          button.setAttribute('data-tooltip', 'Copy code to clipboard');
+        }, 2000);
+      });
+    });
+  });
+
+  // 2. Setup inline copy buttons for linked files
+  document.querySelectorAll('a[href*="config/"], a[href$=".sh"]').forEach(function(link) {
+    var inlineBtn = document.createElement('button');
+    inlineBtn.className = 'inline-copy-btn';
+    inlineBtn.type = 'button';
+    inlineBtn.setAttribute('data-tooltip', 'Copy file contents');
+    inlineBtn.innerHTML = copyIcon;
+
+    // Insert the button immediately after the hyperlink
+    link.parentNode.insertBefore(inlineBtn, link.nextSibling);
+
+    inlineBtn.addEventListener('click', function(e) {
+      e.preventDefault(); // Prevents the page from scrolling or jumping
+
+      // Fetch the raw text of the file linked in the href
+      fetch(link.href)
+        .then(response => response.text())
+        .then(text => {
+          navigator.clipboard.writeText(text).then(function() {
+            inlineBtn.innerHTML = checkIcon;
+            inlineBtn.setAttribute('data-tooltip', 'Copied!');
+            setTimeout(function() {
+              inlineBtn.innerHTML = copyIcon;
+              inlineBtn.setAttribute('data-tooltip', 'Copy file contents');
+            }, 2000);
+          });
+        })
+        .catch(err => console.error('Failed to fetch file: ', err));
+    });
+  });
+</script>
 </body>
 </html>

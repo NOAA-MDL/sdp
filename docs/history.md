@@ -2,18 +2,22 @@
 layout: default
 title: SDP - History
 ---
-<!-- docs/history.md                                 Last Change: 2026-09-01 -->
+<!-- docs/history.md                                 Last Change: 2026-10-08 -->
 
-### Introduction to Potential Hurricane Flooding
+<!----------------------------------------------------------------------------->
+## Introduction to Potential Hurricane Flooding
+
 "Although [the Sea Lake and Overland Surges from Hurricane] SLOSH [model]
 originated as a forecast model, it has recently [as of 1984] been used as a tool
 to delineate areas of **potential hurricane flooding** along the coast. With
 this information, an evacuation planner can identify **areas for evacuation**,
 determine which highways can be used for **evacuation routes**, and **site
 shelters** in areas not flooded or cut off by a hurricane."
-[Jelesnianski, et. al., 1984](/docs/refs/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf)
+<a href="./papers/Jelesnianski_1984_SLOSH_HurcnFcstModel.pdf" target="_blank" rel="noopener noreferrer">Jelesnianski, et al., 1984</a>
 
-### What are MEOWs and MOMs?
+<!----------------------------------------------------------------------------->
+## What are MEOWs and MOMs?
+
 To estimate potential flooding, as part of the National Hurricane Program, the
 SLOSH model is used by the NWS to compute storm surge impacts from thousands of
 hypothetical hurricanes in various computational domains (aka basins). Each
@@ -29,24 +33,27 @@ The MEOW "lumps together a family of parallel track storms, all of the same
 category, tide level, direction of motion, and speed along the tracks. At each
 SLOSH grid square, the highest value of surge from the family of storms is
 displayed..."
-[Shaffer, et al., 1986](/docs/refs/ShafferJelesnianskiChen1986HurricaneStorm.pdf).
+<a href="./papers/ShafferJelesnianskiChen1986HurricaneStorm.pdf" target="_blank" rel="noopener noreferrer">Shaffer, et al., 1986</a>.
 "This product, then, displays the potential flooding for a hurricane of a given
 **category**, **tide level**, and general track **direction** and **speed**."
-[Glahn et al., 2009](/docs/refs/Vol-33-Nu1-Glahn.pdf)
+<a href="./papers/Vol-33-Nu1-Glahn.pdf" target="_blank" rel="noopener noreferrer">Glahn et al., 2009</a>
 
 **Maximum of the MEOWs (MOM)**
 "A MOM is a composite of the maximum storm surge heights for all simulated
 hurricanes of a given category... Thus, the MOM depicts the potential flooding
 for a given hurricane category and tide level, regardless of landfall approach
 direction and speed."
-[Glahn et al., 2009](/docs/refs/Vol-33-Nu1-Glahn.pdf).
+<a href="./papers/Vol-33-Nu1-Glahn.pdf" target="_blank" rel="noopener noreferrer">Glahn et al., 2009</a>.
 
-### SDP's Original Purpose
+<!----------------------------------------------------------------------------->
+## SDP's Original Purpose
+
 Because Geographical Information Systems (GIS) were not readily available in the
-1980s and early 1990s, NWS's Meteorological Development Lab created the SLOSH
-Display Program (SDP) as a free GIS tool to display the MEOW and MOM products.
-Originally built for MS-DOS, it was later rebuilt for MS-Windows and Linux in
-the late 1990s.
+1980s and early 1990s, NWS's Techniques Development Lab (which became the
+Meteorological Development Lab, and now the Office of Modeling and Development)
+created the SLOSH Display Program (SDP) as a free GIS tool to display the MEOW
+and MOM products. Originally built for MS-DOS, it was later rebuilt for
+MS-Windows and Linux in the late 1990s.
 
 By the early 2020s, modern web services replaced the need for an offline MEOW
 and MOM viewer. In 2026, the MEOW and MOM products (last updated in the SDP in
